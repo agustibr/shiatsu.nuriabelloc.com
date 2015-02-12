@@ -38,7 +38,7 @@ defaults:
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
   ignore: ['_config.yml', '404.html', 'sitemap.xml', 'robots.txt', 'README.md', 'CNAME', '.gitignore', '.editorconfig', 'css', '_layouts', '_includes']
-  media: 'images'
+  media: 'image'
   metadata:
     _pages:
       - name: "menu"
