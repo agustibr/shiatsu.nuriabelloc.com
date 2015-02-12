@@ -3,9 +3,9 @@
     <div class="col-xs-8">
       <ul class="footer-links">
         {% assign pages_list = site.pages %}
-        {% assign group = 'navigation' %}
+        {% assign menu = true %}
         {% for node in pages_list %}
-        {% if group == null or group == node.group %}
+        {% if menu == null or menu == node.menu %}
           {% if page.url == node.url %}
             <li class="active">
               <a href="{{ node.url | prepend: site.baseurl | prepend: site.url }}" class="active">
@@ -22,7 +22,7 @@
         {% endif %}
       {% endfor %}
       {% assign pages_list = nil %}
-      {% assign group = nil %}
+      {% assign menu = nil %}
       </ul>
     </div>
   </div>

@@ -33,3 +33,24 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+
+# Prose settings
+# https://github.com/prose/prose/wiki/Prose-Configuration
+prose:
+  ignore: ['_config.yml', '404.html', 'sitemap.xml', 'robots.txt', 'README.md', 'CNAME', '.gitignore', '.editorconfig', 'css', '_layouts', '_includes']
+  media: 'images'
+  metadata:
+    _pages:
+      - name: "menu"
+        field:
+          element: "checkbox"
+          label: "vols que aparegui al menú de la web?"
+          help: "si està clickat apareixerà al menú"
+          value: boolean
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Descripció de la pàgina"
+          help: "serveix per al google, quan busquin"
+          value: ""
+          placeholder: "Descriu`amb una frase (o dos) la pàgina"

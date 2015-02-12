@@ -1,7 +1,7 @@
 ---
 title: Preus
 description: "Preus de les sessions de shiatsu, bono 3 sessions, primera sessió i sessió puntual de shiatsu"
-group: navigation
+menu: true
 permalink: preus/
 ---
 

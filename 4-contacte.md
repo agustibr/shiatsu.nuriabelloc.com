@@ -1,6 +1,6 @@
 ---
 title: Contacte
-group: navigation
+menu: true
 permalink: contacte/
 ---
 <div class="text-center">

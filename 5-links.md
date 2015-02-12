@@ -1,6 +1,6 @@
 ---
 title: Links
-group: navigation
+menu: true
 permalink: links/
 ---
 

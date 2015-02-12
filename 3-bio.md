@@ -1,7 +1,6 @@
 ---
 title: Biografia
-description: "writer, designer, & coder."
-group: navigation
+menu: true
 permalink: bio/
 ---
 

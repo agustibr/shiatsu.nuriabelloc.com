@@ -1,7 +1,7 @@
 ---
 title: Sessions
 description: "writer, designer, & coder."
-group: navigation
+menu: true
 permalink: sessions/
 ---
 
