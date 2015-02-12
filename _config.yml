@@ -37,7 +37,7 @@ defaults:
 # Prose settings
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
-  ignore: ['_config.yml', '404.html', 'sitemap.xml', 'robots.txt', 'README.md', 'PpushCNAME', '.gitignore', '.editorconfig', 'css', '_layouts', '_includes', 'feed.xml', 'favicon.ico']
+  ignore: ['_config.yml', '404.html', 'sitemap.xml', 'robots.txt', 'README.md', 'CNAME', '.gitignore', '.editorconfig', 'css', '_layouts', '_includes', 'feed.xml', 'favicon.ico']
   media: 'image'
   metadata:
     '':
