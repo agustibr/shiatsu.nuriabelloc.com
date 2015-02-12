@@ -15,11 +15,5 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-  <style>
-    /*body{background: #EEE url({{ site.cdn }}/fons.png) fixed}
-    .global-header{background-image: url({{ site.cdn }}/fons-alt.png)}
-    .banner {background: url( {{ site.cdn }}/banner.jpg) no-repeat center top}
-    .global-footer {background: url({{site.cdn}}/fons-alt.png) center bottom repeat-x}
-    */
-  </style>
+  <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" />
 </head>
