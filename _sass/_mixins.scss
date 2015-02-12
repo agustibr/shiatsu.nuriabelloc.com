@@ -1,0 +1,30 @@
+@mixin letterpress($color: rgb(255,255,255), $opacity: 0.6, $depth: 1){
+  text-shadow: 0 $depth*1px 0 rgba(lighten($color, 30),$opacity), 0 $depth*-1px 0 rgba(darken($color, 30),$opacity);
+}
+@mixin emboss($blur: 3px, $opacity: 0.5) {
+  box-shadow: 0 1px $blur rgba(255,255,255,$opacity);
+}
+@mixin linear-gradient($fromColor, $toColor) {
+  background-color: $toColor; /* Fallback Color */
+  background-image: -webkit-gradient(linear, left top, left bottom, from($fromColor), to($toColor)); /* Saf4+, Chrome */
+  background-image: -webkit-linear-gradient(top, $fromColor, $toColor); /* Chrome 10+, Saf5.1+, iOS 5+ */
+  background-image:    -moz-linear-gradient(top, $fromColor, $toColor); /* FF3.6 */
+  background-image:     -ms-linear-gradient(top, $fromColor, $toColor); /* IE10 */
+  background-image:      -o-linear-gradient(top, $fromColor, $toColor); /* Opera 11.10+ */
+  background-image:         linear-gradient(top, $fromColor, $toColor);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#{$fromColor}', EndColorStr='#{$toColor}');
+}
+
+/*
+ * Set a rem font size with pixel fallback
+ *
+ * usage: @include font-size(14px)
+ */
+@function calculateRem($size) {
+  $remSize: $size / 16px;
+  @return $remSize * 1rem;
+}
+@mixin font-size($size) {
+  font-size: $size;
+  font-size: calculateRem($size);
+}

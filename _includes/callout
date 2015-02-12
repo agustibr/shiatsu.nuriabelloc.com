@@ -1,0 +1,4 @@
+<section id="callout">
+  <h1>Vols concertar una <a href="{{ "/sessions" | prepend: site.baseurl }}">sessió</a>?</h1>
+  <p><a href="{{ "/contacte" | prepend: site.baseurl }}">Estic a GRÀCIA</a> al centre de BIOVEU.</p>
+</section>

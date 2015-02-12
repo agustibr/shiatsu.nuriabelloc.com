@@ -1,0 +1,292 @@
+$primary-color: #2e0b1f
+$secondary-color: lighten($primary-color, 10)
+$alternate-color: #F8364D
+$soft-color: lighten(desaturate($alternate-color, 82), 28)
+$hard-color: lighten(desaturate($primary-color, 87), 14)
+$content-bg-color: rgba(255,255,255,.5)
+// $terciary-color: #3DD2CC
+$font-titles: 'playfair display', serif
+$font-text: 'signika', 'Helvetica Neue', Helvetica, sans-serif
+.text-center
+  text-align: center
+
+.fa.hide
+  display: none
+.l3
+  color: #3c763d
+.l4
+  color: #8a6d3b
+.img-rounded
+  border-radius: 6px
+.list-unstyled
+  padding-left: 0
+  list-style: none
+body
+  position: relative
+  padding-bottom: 64px
+  background: #EEE
+  // background: #EEE url(../img/bg-2.png) fixed
+  // background: #EEE url(../img/subtle_white_mini_waves.png) fixed
+  // background: #EEE url(../img/wavegrid.png) fixed
+  // background: #EEE url(../img/paper.png) fixed
+  // background: #EEE url(../img/bg-1.png) fixed
+button,
+.button,
+.button:visited,
+input[type="submit"]
+  font-family: $font-text
+  background-color: $primary-color
+  border: 1px solid $primary-color
+  color: white
+
+a,
+a:visited
+  text-decoration: none
+  color: $secondary-color
+
+a:hover,
+a:active,
+a:focus
+  color: $alternate-color
+
+img
+  max-width: 100%
+  height: auto
+  vertical-align: middle
+
+hr
+  border-top: 1px solid $soft-color
+  border-right: none
+  border-bottom: none
+  border-left: none
+  margin: 20px 0 30px 0
+
+.container
+  width: 100%
+  padding: 0px 20px
+  margin: 0px auto
+//
+.page > hr
+  margin: 20px 40%
+  border-top: 1px solid $soft-color
+.main-content > h1,
+h1.title
+  text-align: center
+  font-size: 18px
+  color: #646462
+  border-bottom: 1px solid $hard-color
+  margin: 0 -1rem 3rem
+  padding-bottom: .4em
+  color: $hard-color
+  font: italic 700 64px/1 $font-titles
+  letter-spacing: 0.05em
+
+
+
+.banner
+  text-align: center
+  color: #fff
+  padding: 2em 1em 2em 1em
+  -webkit-background-size: cover
+  -moz-background-size: cover
+  -o-background-size: cover
+  background-size: cover
+  h1
+    font-size: 1.5rem
+    font-weight: 300
+    font-style: normal
+    font-family: $font-text
+    border: none
+    padding: 1em 1.5em
+    color: $soft-color
+    text-align: center
+  .caption
+    font-size: .8em
+    text-transform: uppercase
+
+blockquote
+  // border-left: 1px solid $alternate-color
+  padding: .1em 2em
+  margin: 0
+.main-content blockquote > p
+  font-style: italic
+  font-family: $font-text
+  font-weight: 100
+  margin: 0.3em
+  line-height: 1.5em
+  font-size: 18px
+  text-align: center
+  color: $alternate-color
+.post-meta
+  font-size: .8em
+  text-transform: uppercase
+  margin-top: 5px
+  text-align: center
+  color: $alternate-color
+.posts.recent
+  background: url(../img/paper.png)
+  .teaser
+    // background: $content-bg-color
+    padding: 1rem 1rem 2rem
+  .post-title
+    color: $hard-color
+.posts
+  hr
+    border-top: 1px solid $soft-color
+  .post .post-title
+    border-bottom: none
+.global-header
+  //background-color: rgba($soft-color, .1)
+  +linear-gradient(rgba($hard-color, .1), rgba(255,255,255,.0))
+  padding: .6rem 0
+  margin: 0 -2
+  .site-title
+    border-bottom: 1px solid rgba($primary-color, .7)
+    text-transform: uppercase
+    letter-spacing: .3em
+    font-size: 3em
+    text-align: center
+    font-weight: 900
+    margin: 0 1em
+    font-family: $font-titles
+    a,
+    a:visited
+      color: rgba($primary-color, .8)
+      +letterpress($alternate-color, .5)
+    a:hover,
+    a:active,
+    a:focus
+      color: rgba(lighten($primary-color,15), .8)
+  .site-description,
+  .site-email
+    padding: 0 1em
+  .site-meta
+    margin: 0
+    padding-top: .3rem
+    text-transform: uppercase
+    font-size: 0.5em
+    letter-spacing: .3em
+    text-align: center
+    font-weight: 700
+    color: $hard-color
+    +letterpress($hard-color, .1)
+    font-family: $font-text
+
+.global-footer
+  background-color: $primary-color
+  position: fixed
+  bottom: 0
+  left: 0
+  right: 0
+  padding: 16px 0px
+  text-align: center
+  margin-top: 50px
+  border-top: 1px solid $soft-color
+  .footer-links
+    padding: 0px
+    margin: 0 auto
+    text-align: center
+    text-transform: uppercase
+    font-weight: 400
+    font-family: $font-titles
+    font-style: normal
+    li
+      margin: 0px .6em
+      display: inline-block
+      letter-spacing: 1px
+      font-size: .8em
+      a, a:visited
+        color: $soft-color
+        padding-top: 20px
+        &:hover
+          color: lighten($soft-color, 15)
+        &.active
+          color: $alternate-color
+          font-weight: 900
+          // border-top: 1px solid $alternate-color
+
+#callout
+  background: rgba($primary-color, .3)
+  color: $soft-color
+  padding: 1em 0 1.5em
+  margin: 2rem 0 0
+  font-family: $font-text
+  font-weight: 400
+  p
+    margin-top: 0
+  a
+    color: darken($soft-color, 5)
+    text-decoration: underline
+    font-weight: 600
+    &:hover
+      color: lighten($soft-color, 5)
+
+img.author
+  border: 1px solid #ECECEC
+  border-radius: 500px
+  float: right
+  width: 130px
+  height: auto
+  margin: 0px 0px 20px 20px
+
+.page-nav
+  &.next
+    float: right
+  &.previous
+    float: left
+  span
+    display: none
+  &:hover span
+    display: inline-block
+
+// clearfix
+.container:after
+  content: " "
+  display: table
+  clear: both
+
+
+.container
+  *zoom: 1
+
++respond-to(phone)
+  .container
+    width: 100%
+
+  .main-content,
+  .page > h1
+    width: 80%
+
++respond-to(tablet)
+  .container
+    width: 680px
+
+  .main-content,
+  .page > h1
+    width: 500px
+
+//  DESKTOP
+// @media only screen and (min-width: 1000px)
++respond-to(desktop)
+  .container
+    width: 960px
+
+
+.main-content p.text-center
+  text-align: center
+.main-content strong
+  font-weight: 700
+
+.pricing
+  text-align: center
+  p
+    margin: 0
+  .price
+    margin: 0
+    font-size: 30px
+    font-weight: normal
+  .val
+    font-size: 2em
+  .sup
+    font-size: 0.6em
+    vertical-align: 1.7em

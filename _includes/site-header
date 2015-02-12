@@ -1,0 +1,16 @@
+<header class="site-header">
+  <div class="row center-xs">
+    <div class="col-xs-8">
+      <h1 class="site-title">
+        <a href="{{ site.baseurl | prepend: site.url }}/">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="site-meta">
+        <a class="site-description" href="{{ site.baseurl | prepend: site.url }}/contacte">{{ site.description_short }}</a>
+        <span class="site-address">{{site.address}}</span>
+        <a class="site-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </p>
+    </div>
+  </div>
+</header>

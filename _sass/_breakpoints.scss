@@ -1,0 +1,84 @@
+//== Media queries breakpoints
+//
+//## Define the breakpoints at which your layout will change, adapting to different screen sizes.
+
+// Extra small screen / phone
+//** Deprecated `$screen-xs` as of v3.0.1
+$screen-xs:                  480px !default;
+//** Deprecated `$screen-xs-min` as of v3.2.0
+$screen-xs-min:              $screen-xs !default;
+//** Deprecated `$screen-phone` as of v3.0.1
+$screen-phone:               $screen-xs-min !default;
+
+// Small screen / tablet
+//** Deprecated `$screen-sm` as of v3.0.1
+$screen-sm:                  768px !default;
+$screen-sm-min:              $screen-sm !default;
+//** Deprecated `$screen-tablet` as of v3.0.1
+$screen-tablet:              $screen-sm-min !default;
+
+// Medium screen / desktop
+//** Deprecated `$screen-md` as of v3.0.1
+$screen-md:                  992px !default;
+$screen-md-min:              $screen-md !default;
+//** Deprecated `$screen-desktop` as of v3.0.1
+$screen-desktop:             $screen-md-min !default;
+
+// Large screen / wide desktop
+//** Deprecated `$screen-lg` as of v3.0.1
+$screen-lg:                  1200px !default;
+$screen-lg-min:              $screen-lg !default;
+//** Deprecated `$screen-lg-desktop` as of v3.0.1
+$screen-lg-desktop:          $screen-lg-min !default;
+
+// So media queries don't overlap when required, provide a maximum
+$screen-xs-max:              ($screen-sm-min - 1) !default;
+$screen-sm-max:              ($screen-md-min - 1) !default;
+$screen-md-max:              ($screen-lg-min - 1) !default;
+
+@mixin respond-to($media) {
+  @if $media == phone {
+    @media only screen and (max-width: $screen-xs-max) { @content; }
+  }
+  @else if $media == tablet {
+    @media only screen and (min-width: $screen-xs-max + 1) and (max-width: $screen-sm-max - 1) { @content; }
+  }
+  @else if $media == laptop {
+    @media only screen and (min-width: $screen-sm-max) and (max-width: $screen-md-max - 1) { @content; }
+  }
+  @else if $media == desktop {
+    @media only screen and (min-width: $screen-md-max) { @content; }
+  }
+}
+
+sneak,
+.sneak {
+  display: block;
+  // display: none;
+  position: fixed;
+  bottom: 0;
+  color: white;
+  width: 100% ;
+  font-size: .5em;
+  font-family: monospace;
+  &:before{
+    display: block;
+    padding: .3em;
+  }
+  @include respond-to(phone) {
+    color: green;
+    &:before{content:"[xs] phone";}
+  }
+  @include respond-to(tablet) {
+    color: orange;
+    &:before{content:"[sm] tablet";}
+  }
+  @include respond-to(laptop) {
+    color: red;
+    &:before{content:"[md] laptop";}
+  }
+  @include respond-to(desktop) {
+    color: pink;
+    &:before{content:"[lg] desktop";}
+  }
+}

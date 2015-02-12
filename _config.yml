@@ -1,0 +1,14 @@
+# Site settings
+title: "Núria Belloc"
+description_short: "Shiatsu a Gràcia"
+description: "El shiatsu és una eina de contacte entre persones, un procés en moviment constant i en continua evolució."
+
+email: shiatsu.nbr@gmail.com
+address: "c/ Sors, nº 10. Gràcia"
+tel: (+34) 651 862 122
+
+permalink: pretty
+baseurl: ''
+cdn: 'https://googledrive.com/host/0Bxwn2g3WSTbRfk1DVGpwbEl4dFA3ajFiTGFyZlA0WklGY3Izc0YtSHhVYncyVk01SzBibjQ'
+# Build settings
+markdown: kramdown

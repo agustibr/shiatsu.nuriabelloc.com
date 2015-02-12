@@ -1,0 +1,180 @@
+$bg: #EEE
+$primary-color: #2e0b1f
+$secondary-color: lighten($primary-color, 10)
+$alternate-color: #F8364D
+$soft-color: lighten(desaturate($alternate-color, 82), 28)
+$hard-color: lighten(desaturate($primary-color, 87), 14)
+$text-color: lighten(desaturate($primary-color, 10), 20)
+// $content-bg-color: rgba(255,255,255,.5)
+// $terciary-color: #3DD2CC
+$font-titles: 'playfair display', serif
+$font-text: 'signika', 'Helvetica Neue', Helvetica, sans-serif
+
+html
+  +font-size(14px)
+  height: 100%
+body
+  height: 100%
+  margin: 0
+  padding: 0
+  padding-bottom: 3rem
+  font-family: $font-text
+  background: $bg url(../image/bg-wood.jpg) fixed
+a,
+a:visited
+  text-decoration: none
+  color: $secondary-color
+
+a:hover,
+a:active,
+a:focus
+  color: $alternate-color
+
+.site-header
+  +linear-gradient(rgba($hard-color, .2), rgba(255,255,255,.0))
+  padding: .6rem 0
+  margin: 0 -2rem
+  text-align: center
+.site-title
+  margin: 0
+  border-bottom: 1px solid rgba($primary-color, .7)
+  text-transform: uppercase
+  font-size: 3.5rem
+  font-weight: 900
+  font-family: $font-titles
+  letter-spacing: .8rem
+  a,
+  a:visited
+    color: rgba($primary-color, .8)
+    +letterpress($alternate-color, .5)
+  a:hover,
+  a:active,
+  a:focus
+    color: rgba(lighten($primary-color,15), .8)
+.site-description,
+.site-email
+  padding: 0 1em
+.site-meta
+  margin: 0
+  padding-top: .6rem
+  text-transform: uppercase
+  font-size: .7rem
+  font-weight: 700
+  font-family: $font-text
+  letter-spacing: .2rem
+  color: $hard-color
+  +letterpress($hard-color, .1)
+
+.site-footer
+  background-color: $primary-color
+  position: fixed
+  bottom: 0
+  left: 0
+  right: 0
+  padding: 16px 0px
+  text-align: center
+  margin-top: 50px
+  border-top: 1px solid $soft-color
+.footer-links
+  padding: 0px
+  margin: 0 auto
+  text-align: center
+  text-transform: uppercase
+  font-weight: 400
+  font-family: $font-titles
+  font-style: normal
+  li
+    margin: 0px .7rem
+    display: inline-block
+    font-size: 1rem
+    letter-spacing: .1rem
+    a, a:visited
+      color: $soft-color
+      padding-top: 1rem
+      &:hover
+        color: lighten($soft-color, 15)
+      &.active
+        color: $alternate-color
+        font-weight: 900
+        border-top: 1px solid $alternate-color
+        +respond-to(tablet)
+          border-top-color: none
+#callout
+  background: rgba($primary-color, .3)
+  padding: 1em 0 1.5em
+  margin: 2rem -2rem 0
+  color: $soft-color
+  text-align: center
+  font-family: $font-text
+  font-weight: 400
+  p
+    margin-top: 0
+  a
+    color: darken($soft-color, 5)
+    text-decoration: underline
+    font-weight: 600
+    &:hover
+      color: lighten($soft-color, 5)
+
+.main-content
+  padding: 25px
+  width: 100%
+  margin: 3rem auto 1rem
+  background: $bg
+  background: url(../image/bg-paper.png)
+  padding: 1.5rem 3rem 2rem
+  text-align: justify
+  font-family: $font-text
+  color: rgba($hard-color, .8)
+  border-radius: .5rem
+  font-family: $font-text
+  font-weight: 400
+  font-size: 1.1rem
+  .banner &
+    background: transparent
+  h2
+    margin: 0
+    padding: 0
+    line-height: 1.3em
+    font-weight: 100
+    border-bottom: 1px solid $soft-color
+    display: inline-block
+    // +letterpress($soft-color, .8)
+    font-family: $font-titles
+  p
+    line-height: 1.6em
+    strong
+      font-weight: 600
+    em
+      font-weight: 300
+      font-style: normal
+  .title
+    margin: 0 0 3rem
+    text-align: center
+    font-size: 2rem
+    color: rgba($hard-color, .9)
+    +letterpress($soft-color, .8)
+    border-bottom: 1px solid rgba($hard-color, .5)
+    padding-bottom: .4em
+    font: italic 700 64px/1 $font-titles
+    letter-spacing: 0.05em
+  img.author
+    border: 1px solid $soft-color
+    border-radius: 50%
+    float: right
+    width: 30%
+    height: auto
+    margin: 0 0 1rem 1rem
+  blockquote
+    // border-left: 1px solid $alternate-color
+    padding: .1rem 2rem
+    margin: 0
+    > p
+      font-style: italic
+      font-family: $font-text
+      font-weight: 100
+      margin: .3rem
+      line-height: 1.5rem
+      font-size: 1.3rem
+      text-align: center
+      color: $alternate-color
