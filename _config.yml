@@ -49,7 +49,7 @@ prose:
           value: boolean
       - name: "description"
         field:
-          element: "textarea"
+          element: "text"
           label: "Descripció de la pàgina"
           help: "serveix per al google, quan busquin"
           placeholder: "Descriu`amb una frase (o dos) la pàgina"
