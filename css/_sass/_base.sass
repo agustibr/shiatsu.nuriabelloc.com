@@ -17,7 +17,6 @@ body
   height: 100%
   margin: 0
   padding: 0
-  padding-bottom: 3rem
   font-family: $font-text
   background: $bg url(../image/bg-wood.jpg) fixed
 a,
@@ -29,12 +28,32 @@ a:hover,
 a:active,
 a:focus
   color: $alternate-color
-
+hr
+  border-top: 1px solid $soft-color
+  border-right: none
+  border-bottom: none
+  border-left: none
+  margin: 1rem 0 2rem 0
+.text-highlight
+  color: $alternate-color
+.text-center
+  text-align: center
+.list-unstyled
+  padding-left: 0
+  list-style: none
+.img-responsive
+  display: block
+  width: 100%
+  max-width: 100%
+  height: auto
+//
 .site-header
   +linear-gradient(rgba($hard-color, .2), rgba(255,255,255,.0))
   padding: .6rem 0
   margin: 0 -2rem
   text-align: center
+  .row
+    margin: 0
 .site-title
   margin: 0
   border-bottom: 1px solid rgba($primary-color, .7)
@@ -71,10 +90,12 @@ a:focus
   bottom: 0
   left: 0
   right: 0
-  padding: 16px 0px
+  padding: 0
   text-align: center
   margin-top: 50px
   border-top: 1px solid $soft-color
+  .row
+    margin: 0
 .footer-links
   padding: 0px
   margin: 0 auto
@@ -85,24 +106,28 @@ a:focus
   font-style: normal
   li
     margin: 0px .7rem
+    padding: 1rem 0
     display: inline-block
     font-size: 1rem
     letter-spacing: .1rem
+    &.active
+      border-top: 1px solid $alternate-color
+      +respond-to(tablet)
+        border-top-color: transparent
+      +respond-to(phone)
+        border-top-color: transparent
     a, a:visited
       color: $soft-color
-      padding-top: 1rem
       &:hover
         color: lighten($soft-color, 15)
       &.active
         color: $alternate-color
         font-weight: 900
-        border-top: 1px solid $alternate-color
-        +respond-to(tablet)
-          border-top-color: none
+
 #callout
   background: rgba($primary-color, .3)
   padding: 1em 0 1.5em
-  margin: 2rem -2rem 0
+  margin: 2rem -2rem 3rem
   color: $soft-color
   text-align: center
   font-family: $font-text
@@ -115,7 +140,30 @@ a:focus
     font-weight: 600
     &:hover
       color: lighten($soft-color, 5)
-
+.banner
+  text-align: center
+  color: $soft-color
+  padding: 2em 1em 2em 1em
+  -webkit-background-size: cover
+  -moz-background-size: cover
+  -o-background-size: cover
+  background-size: cover
+  h1
+    font-size: 2rem
+    font-weight: 300
+    font-style: normal
+    font-family: $font-text
+    padding: 1rem 1.5rem
+    margin: 0 0 4rem
+    color: $primary-color
+    +letterpress($soft-color, .5)
+    text-align: center
+  .caption
+    padding: .3rem
+    display: inline-block
+    font-size: .8rem
+    text-transform: uppercase
+    text-align: right
 .main-content
   padding: 25px
   width: 100%
@@ -130,17 +178,16 @@ a:focus
   font-family: $font-text
   font-weight: 400
   font-size: 1.1rem
-  .banner &
-    background: transparent
   h2
     margin: 0
     padding: 0
     line-height: 1.3em
     font-weight: 100
-    border-bottom: 1px solid $soft-color
+    //border-bottom: 1px solid $soft-color
     display: inline-block
     // +letterpress($soft-color, .8)
     font-family: $font-titles
+    color: rgba($hard-color, .9)
   p
     line-height: 1.6em
     strong
@@ -178,3 +225,22 @@ a:focus
       font-size: 1.3rem
       text-align: center
       color: $alternate-color
+
+.pricing
+  text-align: center
+  p
+    margin: 0
+  .price
+    margin: 0
+    font-size: 1.5rem
+    font-weight: normal
+  .val
+    font-size: 4rem
+    color: $hard-color
+  .sup
+    font-size: 1.2rem
+    vertical-align: 2rem
+.l3
+  color: #3c763d
+.l4
+  color: #8a6d3b

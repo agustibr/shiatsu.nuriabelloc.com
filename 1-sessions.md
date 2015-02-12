@@ -1,7 +1,6 @@
 ---
 title: Sessions
 description: "writer, designer, & coder."
-layout: page
 group: navigation
 permalink: sessions/
 ---
@@ -22,7 +21,7 @@ Son sessions personalitzades i úniques, en les que treballarem conjuntament, l'
 
 ---
 
-> [Preus per a tothom!]({{site.baseurl}}/preus)
+> [Preus per a tothom!]({{site.baseurl}}/preus) - [on sóc?]({{site.baseurl}}/contacte)
 
 ---
 
@@ -36,13 +35,16 @@ Millora el funcionament de les articulacions, augmenta el reg sanguini i afavore
 
 ---
 
-> [Preus per a tothom!]({{site.baseurl}}/preus)
+> [Preus per a tothom!]({{site.baseurl}}/preus) - [on sóc?]({{site.baseurl}}/contacte)
+
+---
+
+## Shiatsu per a Músics
 
 ---
 
 <!--
 
-## Shiatsu per a Músics
 
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio.
 

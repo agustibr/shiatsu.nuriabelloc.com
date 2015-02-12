@@ -1,6 +1,5 @@
 ---
 title: Links
-layout: page
 group: navigation
 permalink: links/
 ---
