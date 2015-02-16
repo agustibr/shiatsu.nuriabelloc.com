@@ -1,6 +1,6 @@
 ---
 title: Sessions
-description: "writer, designer, & coder."
+description: "shiatsu, massatges a gracia"
 menu: true
 permalink: sessions/
 published: true
