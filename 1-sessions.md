@@ -3,6 +3,7 @@ title: Sessions
 description: "writer, designer, & coder."
 menu: true
 permalink: sessions/
+published: true
 ---
 
 + [Shiatsu](#shiatsu)
@@ -11,7 +12,7 @@ permalink: sessions/
 
 ---
 
-## Shiatsu
+## Shiatsu per a tothom
 
 El Shiatsu és una terapia manual que es fonamenta en la filosofia i medicina tracidional xinesa. Ho combino amb el treball corporal, l'estudi del moviment del cos, coneixements d'anatomia i fisiologia d'occident. Amb aquesta base, genero eines per a treballar el síntoma, la causa i la dinàmica creada.
 
