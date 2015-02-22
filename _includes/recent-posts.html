@@ -1,0 +1,18 @@
+<div class="page container">
+  <div class="posts recent">
+    <h1 class="title">Apunts recents del blog:</h2>
+    <div class="row">
+    {% for post in site.posts limit:3 %}
+      <div class="post teaser col-sm-4" id="{{ post.slug }}">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <div class="post-meta">
+            {{ post.date | date_to_string }}
+          </div>
+          <h3 class="post-title">{{ post.title }}</h3>
+          <div class="post-summary">{{ post.summary }}</div>
+        </a>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
+</div>

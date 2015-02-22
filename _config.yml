@@ -9,7 +9,7 @@ address: "c/ Sors, nº 10. Gràcia"
 tel: (+34) 651 862 122
 
 permalink: pretty
-url: http://shiatsu.nuriabelloc.com
+url: '' # http://shiatsu.nuriabelloc.com
 baseurl: ''
 cdn: 'https://googledrive.com/host/0Bxwn2g3WSTbRfk1DVGpwbEl4dFA3ajFiTGFyZlA0WklGY3Izc0YtSHhVYncyVk01SzBibjQ'
 analytics: 'UA-59689079-1'
@@ -38,7 +38,7 @@ defaults:
 # Prose settings
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
-  ignore: ['_config.yml', '404.html', 'sitemap.xml', 'robots.txt', 'README.md', 'CNAME', '.gitignore', '.editorconfig', 'css', '_layouts', '_includes', 'feed.xml', 'favicon.ico']
+  ignore: ['_config.yml', '404.html', 'sitemap.xml', 'robots.txt', 'README.md', 'CNAME', '.gitignore', '.editorconfig', 'css', 'js','_layouts', '_includes', 'feed.xml', 'favicon.ico']
   media: 'image'
   metadata:
     '':
