@@ -8,3 +8,5 @@ permalink: links/
 + **Escola de Shiatsu i Moviment**: [shiatsu-movimiento.com](http://www.shiatsu-movimiento.com)
 + **Contacte Viu**: [contacteviu.com](http://www.contacteviu.com)
 + **Bioveu**: [web bioveu](http://www.txellsota.wix.com/bioveu)
++ *Osteopatia Crios*: [criosgracia.com](http://www.criosgracia.com/)
++ **Wu Shu**: [institutodewushu.com](http://www.institutodewushu.com/)
