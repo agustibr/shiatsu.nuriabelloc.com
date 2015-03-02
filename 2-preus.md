@@ -11,9 +11,6 @@ permalink: preus/
       <h4 class="price">
         <del><span class="val">25</span></del><span class="sup">€</span><span class="sub"></span>
       </h4>
-      <p class="text-highlight">
-        Promoció Febrer'15 primera sessió per <strong>20€!!</strong>
-      </p>
   </div>
   <div class="col-xs tier single">
     <p class="text-center">Preu sessió</p>
