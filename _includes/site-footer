@@ -1,8 +1,9 @@
+{% assign pages_list = site.pages | where:"lang", page.lang %}
+
 <footer class="site-footer">
   <div class="row center-xs">
     <div class="col-xs-8">
       <ul class="footer-links">
-        {% assign pages_list = site.pages %}
         {% assign menu = true %}
         {% for node in pages_list %}
         {% if menu == null or menu == node.menu %}

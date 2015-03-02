@@ -1,0 +1,27 @@
+{% assign logo-link = site.pages | where:"sibling", "index" | where:"lang", page.lang %}
+{% assign contact-link = site.pages | where:"sibling", "contact" | where:"lang", page.lang %}
+{% assign translations = site.pages | where:"sibling", page.sibling | sort: 'path' %}
+
+<header class="site-header">
+  <div class="row center-xs">
+    <div class="col-xs-8">
+      <h1 class="site-title">
+        <a href="{{ logo-link[0].url | prepend: site.baseurl | prepend: site.url }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="site-meta">
+        <a class="site-description" href="{{ contact-link[0].url | site.baseurl | prepend: site.url }}">{{ site.description_short }}</a>
+        <span class="site-address">{{site.addr}}</span>
+        <a class="site-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </p>
+    </div>
+  </div>
+  <ul class="lang">
+    {% for translation in translations %}
+      <li>
+        <a href="{{ translation.url | prepend: site.baseurl }}" class="{{ translation.lang }}">{{ translation.lang }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</header>

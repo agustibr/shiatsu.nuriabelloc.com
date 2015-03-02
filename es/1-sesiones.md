@@ -1,9 +1,9 @@
 ---
-title: Sessions
+title: Sesiones
 description: "shiatsu, massatges a gracia"
 menu: true
-permalink: sessions/
-published: true
+permalink: es/sesiones/
+sibling: sessions
 ---
 _la durada de les sessions és entre 50 i 60 minuts cal portar roba còmode_
 

@@ -5,6 +5,7 @@
   <title>{% if page.title || post.title %}{{ page.title || post.title }} | {{ site.title}}{% else %}{{ site.title }} | {{ site.description}}{% endif %}
   </title>
   <meta name="description" content="{% if page.description || post.description %}{{ page.description || post.description }}{% else %}{{ site.description }}{% endif %}">
+
   <meta name="viewport" content="width=device-width">
 
   <link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
@@ -12,9 +13,18 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
 
   <!-- -->
-  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet">
+  {% if page.sibling == 'contact' %}
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet">
+  {% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
   <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" />
+
+  <meta content="{{ '/image/og.png' | prepend: site.baseurl }}" property="og:image" />
+  <meta content='{{ site.url }}{{site.baseurl}}{{ page.url }}' property='og:url' />
+  <meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property='og:description' />
+  <meta content="article" property="og:type" />
+  <meta content='{{ page.title }} - {{ site.title }}' property='og:title' />
+
 </head>

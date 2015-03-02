@@ -1,7 +1,8 @@
 ---
-title: Biografia
+title: Biografía
 menu: true
-permalink: bio/
+permalink: es/bio/
+sibling: bio
 ---
 
 <img class="author" src="{{site.cdn}}/nuria-belloc.jpg">

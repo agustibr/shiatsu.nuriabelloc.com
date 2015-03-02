@@ -1,7 +1,8 @@
 ---
 title: Links
 menu: true
-permalink: links/
+permalink: es/links/
+sibling: links
 ---
 
 + **APSE**: [shiatsu-apse.es](http://www.shiatsu-apse.es)

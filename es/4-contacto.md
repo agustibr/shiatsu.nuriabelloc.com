@@ -1,7 +1,8 @@
 ---
-title: Contacte
+title: Contacto
 menu: true
-permalink: contacte/
+permalink: es/contacto/
+sibling: contact
 ---
 <div class="text-center">
   <strong>Núria Belloc Rocasalbas</strong>

@@ -12,7 +12,7 @@ permalink: pretty
 url: '' # http://shiatsu.nuriabelloc.com
 baseurl: ''
 cdn: 'https://googledrive.com/host/0Bxwn2g3WSTbRfk1DVGpwbEl4dFA3ajFiTGFyZlA0WklGY3Izc0YtSHhVYncyVk01SzBibjQ'
-analytics: 'UA-59689079-1'
+# analytics: 'UA-59689079-1'
 timezone: Europe/Amsterdam
 
 # Build settings
@@ -27,13 +27,21 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: post
   -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: "page"
+      layout: page
+      lang: cat
+  -
+    scope:
+      path: es
+      type: "pages"
+    values:
+      layout: page
+      lang: es
 
 # Prose settings
 # https://github.com/prose/prose/wiki/Prose-Configuration
@@ -53,11 +61,18 @@ prose:
           element: "text"
           label: "Descripció de la pàgina"
           help: "serveix per al google, quan busquin"
-          placeholder: "Descriu`amb una frase (o dos) la pàgina"
+          placeholder: "Descriu amb una frase (o dos) els continguts de la pàgina"
       - name: "permalink"
         field:
           element: "text"
           label: "La ruta de la pagina"
           help: "s'ha d'escriure sense http://shiatsu.nuriabelloc.com/ i acabat amb /"
           placeholder: "exemple/"
+          type: text
+      - name: "sibling"
+        field:
+          element: "text"
+          label: "Identifica les pagines (germanes) traduides"
+          help: "La pàgina de contacte en català i castella tindran aquest camp igual"
+          placeholder: "exemple"
           type: text
