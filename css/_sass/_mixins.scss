@@ -33,7 +33,7 @@
 @mixin button-bg($bg) {
   background: $bg;
   &:hover {
-    background:darken($bg,8%);
+    background:darken($bg,15%);
     transition: all 0.3s ease;
   }
   &:active {

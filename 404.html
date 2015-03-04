@@ -3,4 +3,9 @@ title: 404
 permalink: /404.html
 sitemap: false
 ---
-Aquesta pàgina no existeix =(
+
+{% if page.lang == 'cat' %}
+  Aquesta pàgina no existeix :(
+{% else %}
+  Esta pàgina no exsite
+{% endif %}

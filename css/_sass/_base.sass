@@ -141,7 +141,9 @@ hr
     margin: 0px .7rem
     padding: 1rem 0
     display: inline-block
-    font-size: 1rem
+    font-size: 1.2rem
+    +respond-to(phone)
+      font-size: 1rem
     letter-spacing: .1rem
     &.active
       border-top: 1px solid $alternate-color
@@ -151,11 +153,12 @@ hr
         border-top-color: transparent
     a, a:visited
       color: $soft-color
+      font-weight: 900
       &:hover
         color: lighten($soft-color, 15)
       &.active
         color: $alternate-color
-        font-weight: 900
+
 
 .banner
   text-align: center
@@ -177,8 +180,9 @@ hr
     font-family: $font-text
     padding: 1rem 1.5rem
     margin: 0 0 4rem
-    color: $primary-color
-    +letterpress($soft-color, .5)
+    color: $soft-color
+    +letterpress($primary-color, .5)
+    text-shadow: 0 0px 1rem rgba($hard-color, .9)
     text-align: center
   .caption
     padding: .3rem
@@ -249,13 +253,7 @@ hr
     padding-bottom: .4em
     font: italic 700 64px/1 $font-titles
     letter-spacing: 0.05em
-  img.author
-    border: 1px solid $soft-color
-    border-radius: 50%
-    float: right
-    width: 30%
-    height: auto
-    margin: 0 0 1rem 1rem
+
   blockquote
     // border-left: 1px solid $alternate-color
     padding: .1rem 2rem
@@ -288,7 +286,16 @@ hr
   color: #3c763d
 .l4
   color: #8a6d3b
-
+.bio h1 + p
+  float: right
+  display: block
+  width: 150px
+  margin: 0 0 1rem 1rem
+.bio img
+  border-radius: 50%
+  border: 1px solid $soft-color
+  height: auto
+  width: 100%
 //
 #newsletter
   background: rgba($alternate-color, .3)
