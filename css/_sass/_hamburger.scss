@@ -1,0 +1,39 @@
+$base-line-height: 1.5;
+.site-footer {
+
+  .menu-icon {
+      display: none;
+  }
+
+
+  @include respond-to(phone) {
+      .menu-icon {
+          display: block;
+          float: right;
+          width: 36px;
+          height: 26px;
+          line-height: 0;
+          padding-top: 10px;
+          margin: 0 auto;
+
+          > svg {
+              width: 18px;
+              height: 15px;
+
+              path {
+                  fill: $alternate-color;
+              }
+          }
+      }
+
+      .trigger {
+          clear: both;
+          display: none;
+      }
+
+      &:hover .trigger {
+          display: block;
+          padding-bottom: 5px;
+      }
+  }
+}

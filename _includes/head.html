@@ -23,7 +23,11 @@
 
   <meta content="{{ '/image/og.png' | prepend: site.baseurl }}" property="og:image" />
   <meta content='{{ site.url }}{{site.baseurl}}{{ page.url }}' property='og:url' />
-  <meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property='og:description' />
+  {% if page.description %}
+    <meta content="{{ page.description }}" property='og:description' />
+  {% else %}
+    <meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property='og:description' />
+  {% endif %}
   <meta content="article" property="og:type" />
   <meta content='{{ page.title }} - {{ site.title }}' property='og:title' />
 

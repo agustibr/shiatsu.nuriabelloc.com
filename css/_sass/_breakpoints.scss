@@ -54,7 +54,7 @@ $screen-md-max:              ($screen-lg-min - 1) !default;
 sneak,
 .sneak {
   display: block;
-  display: none;
+  //display: none;
   position: fixed;
   bottom: 0;
   color: white;

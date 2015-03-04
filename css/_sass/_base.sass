@@ -1,12 +1,13 @@
 ///
 $color-n1: #4B1246
 $color-n2: #41A19E
+$color-n2: #3DD2CC
 ////
 
 $bg: #EEE
-$primary-color: #2e0b1f
+$primary-color: $color-n1 // 2e0b1f
 $secondary-color: lighten($primary-color, 10)
-$alternate-color: #F8364D
+$alternate-color: $color-n2 // F8364D
 $soft-color: lighten(desaturate($alternate-color, 82), 28)
 $hard-color: lighten(desaturate($primary-color, 87), 14)
 $text-color: lighten(desaturate($primary-color, 10), 20)
@@ -19,15 +20,17 @@ html
   +font-size(14px)
   height: 100%
 body
-  height: 100%
+  min-height: 100%
   margin: 0
   padding: 0
+  padding-bottom: 10em
   font-family: $font-text
   background: $bg url(../image/bg-wood.jpg) fixed
 a,
 a:visited
   text-decoration: none
   color: $secondary-color
+  transition: all 0.4s ease
 
 a:hover,
 a:active,
@@ -56,10 +59,26 @@ hr
 .es:lang(es),
 .cat:lang(cat)
   font-weight: bold
-
+.langs
+  background: $alternate-color
+  border-top: 1px solid $primary-color
+  position: absolute
+  top: 0
+  right: 0
+  padding: 0
+  margin: 0 1em 0 0
+  text-align: right
+  li
+    display: inline-block
+    padding: 0 .5em
+    margin: 0
 //
+.container-fluid
+  +respond-to(phone)
+    padding-right: .7rem
+    padding-left: .7rem
 .site-header
-  +linear-gradient(rgba($hard-color, .2), rgba(255,255,255,.0))
+  +linear-gradient(rgba($soft-color, .4), rgba($soft-color, .0))
   padding: .6rem 0
   margin: 0 -2rem
   text-align: center
@@ -70,13 +89,15 @@ hr
   border-bottom: 1px solid rgba($primary-color, .7)
   text-transform: uppercase
   font-size: 3.5rem
+  +respond-to(phone)
+    font-size: 2.2rem
   font-weight: 900
   font-family: $font-titles
   letter-spacing: .8rem
   a,
   a:visited
-    color: rgba($primary-color, .8)
-    +letterpress($alternate-color, .5)
+    color: $primary-color
+    +letterpress($soft-color, .1)
   a:hover,
   a:active,
   a:focus
@@ -88,12 +109,13 @@ hr
   margin: 0
   padding-top: .6rem
   text-transform: uppercase
-  font-size: .7rem
+  font-size: .8rem
   font-weight: 700
   font-family: $font-text
   letter-spacing: .2rem
   color: $hard-color
-  +letterpress($hard-color, .1)
+  text-shadow: 0 0px 1rem rgba($soft-color, .4)
+  // +letterpress($soft-color, .1)
 
 .site-footer
   background-color: $primary-color
@@ -135,32 +157,21 @@ hr
         color: $alternate-color
         font-weight: 900
 
-#callout
-  background: rgba($primary-color, .3)
-  padding: 1em 0 1.5em
-  margin: 2rem -2rem 3rem
-  color: $soft-color
-  text-align: center
-  font-family: $font-text
-  font-weight: 400
-  p
-    margin-top: 0
-  a
-    color: darken($soft-color, 5)
-    text-decoration: underline
-    font-weight: 600
-    &:hover
-      color: lighten($soft-color, 5)
 .banner
   text-align: center
   color: $soft-color
-  padding: 2em 1em 2em 1em
+  padding: 2rem 1rem 2rem 1rem
+  +respond-to(phone)
+    padding: .8em .3em .6em .3em
   -webkit-background-size: cover
   -moz-background-size: cover
   -o-background-size: cover
   background-size: cover
   h1
     font-size: 2rem
+    +respond-to(phone)
+      font-size: 1.4rem
+
     font-weight: 300
     font-style: normal
     font-family: $font-text
@@ -175,13 +186,29 @@ hr
     font-size: .8rem
     text-transform: uppercase
     text-align: right
+  // banner
+  #marquee
+    height: 400px
+    +respond-to(phone)
+      height: 200px
+    position: relative
+    margin: 0 -3rem
+    div.scrollableArea img
+      height: 400px
+      +respond-to(phone)
+        height: 200px
+      position: relative
+      float: left
+      margin: 0
+      padding: 0
+      margin-right: 2rem
 .main-content
   padding: 25px
   width: 100%
   margin: 3rem auto 1rem
+  padding: 1.5rem 3rem 2rem
   background: $bg
   background: url(../image/bg-paper.png)
-  padding: 1.5rem 3rem 2rem
   text-align: justify
   font-family: $font-text
   color: rgba($hard-color, .8)
@@ -189,6 +216,9 @@ hr
   font-family: $font-text
   font-weight: 400
   font-size: 1.1rem
+  +respond-to(phone)
+    margin: 2rem auto 1rem
+    padding: 1rem 1rem 1rem
   h2
     margin: 0
     padding: 0
@@ -207,9 +237,12 @@ hr
       font-weight: 300
       font-style: normal
   .title
-    margin: 0 0 3rem
     text-align: center
+    margin: 0 0 3rem
     font-size: 2rem
+    +respond-to(phone)
+      margin: 0 0 1.5rem
+      font-size: 2rem
     color: rgba($hard-color, .9)
     +letterpress($soft-color, .8)
     border-bottom: 1px solid rgba($hard-color, .5)
@@ -256,15 +289,39 @@ hr
 .l4
   color: #8a6d3b
 
-// banner
-#banner
-  height: 400px
-  position: relative
-  margin: 2rem -2rem
-  div.scrollableArea img
-    height: 400px
-    position: relative
-    float: left
-    margin: 0
-    padding: 0
-    margin-right: 2rem
+//
+#newsletter
+  background: rgba($alternate-color, .3)
+  padding: 1em 0 1.5em
+  border-radius: 1em
+  color: $primary-color
+  .btn
+    border: none
+    border-radius: .3em
+    color: white
+    text-decoration: none
+    padding: .2em .4em
+    border-radius: 3px
+    font-size: 1rem
+    +button-bg($alternate-color)
+  .input-email
+    border: none
+    padding: .2em
+    border-radius: 3px
+    width: 66%
+#contactme
+  background: rgba($primary-color, .3)
+  padding: 1em 0 1.5em
+  border-radius: 1em
+  color: $primary-color
+  text-align: center
+  font-family: $font-text
+  font-weight: 400
+  p
+    margin-top: 0
+  a
+    color: darken($soft-color, 5)
+    text-decoration: underline
+    font-weight: 600
+    &:hover
+      color: lighten($soft-color, 5)

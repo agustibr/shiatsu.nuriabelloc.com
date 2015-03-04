@@ -1,7 +1,9 @@
 # Site settings
 title: "Núria Belloc"
 description_short: "Shiatsu a Gràcia"
-description: "El shiatsu és una eina de contacte entre persones, un procés en moviment i en continua evolució."
+description: > #
+  El shiatsu és una eina de contacte entre persones, 
+  un procés en moviment i en continua evolució.
 
 email: shiatsu.nbr@gmail.com
 addr: "c/ Sors, nº 10. Gràcia"
@@ -43,13 +45,19 @@ defaults:
       layout: page
       lang: es
 
-# Prose settings
+# Prose.io settings
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
   ignore: ['_config.yml', '404.html', 'sitemap.xml', 'robots.txt', 'README.md', 'CNAME', '.gitignore', '.editorconfig', 'css', 'js','_layouts', '_includes', 'feed.xml', 'favicon.ico']
   media: 'image'
   metadata:
     '':
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publicat?"
+          help: "Clickat apareixerà a la web"
+          value: true
       - name: "menu"
         field:
           element: "checkbox"

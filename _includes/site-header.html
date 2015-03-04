@@ -4,7 +4,7 @@
 
 <header class="site-header">
   <div class="row center-xs">
-    <div class="col-xs-8">
+    <div class="col-xs-9">
       <h1 class="site-title">
         <a href="{{ logo-link[0].url | prepend: site.baseurl | prepend: site.url }}">
           {{ site.title }}
@@ -17,7 +17,7 @@
       </p>
     </div>
   </div>
-  <ul class="lang">
+  <ul class="langs">
     {% for translation in translations %}
       <li>
         <a href="{{ translation.url | prepend: site.baseurl }}" class="{{ translation.lang }}">{{ translation.lang }}</a>
