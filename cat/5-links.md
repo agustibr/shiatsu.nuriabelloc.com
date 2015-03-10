@@ -11,3 +11,11 @@ sibling: links
 + **Bioveu**: [web bioveu](http://www.txellsota.wix.com/bioveu)
 + **Osteopatia Crios**: [criosgracia.com](http://www.criosgracia.com/)
 + **Wu Shu**: [institutodewushu.com](http://www.institutodewushu.com/)
+
+---
+
+# Crédits
+
++ textos: Núria Belloc
++ fotografies de Clàudia Serrahima Urgell
++ disseny i programació web: Agustí Belloc

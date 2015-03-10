@@ -1,3 +1,4 @@
+{% assign sessions-link = site.pages | where:"sibling", "sessions" | where:"lang", page.lang %}
 {% assign contact-link = site.pages | where:"sibling", "contact" | where:"lang", page.lang %}
 
 <div id="contactme">
@@ -7,7 +8,7 @@
     {% else %}
       Introduzca su dirección de correo electrónico
     {% endif %}
-    <a href="{{ contact-link[0].url | site.baseurl | prepend: site.url }}">
+    <a href="{{ sessions-link[0].url | prepend: site.baseurl | prepend: site.url }}">
     {% if page.lang == 'cat' %}
       sessió
     {% else %}
@@ -16,7 +17,7 @@
     </a>?
   </h3>
   <p>
-    <a href="{{ contact-link[0].url | site.baseurl | prepend: site.url }}">
+    <a href="{{ contact-link[0].url | prepend: site.baseurl | prepend: site.url }}">
       {% if page.lang == 'cat' %}
         Estic a Gràcia, Barcelona!
       {% else %}

@@ -1,4 +1,7 @@
 <head>
+  {% if page.external-url %}
+    <meta http-equiv="refresh" content="0; url={{page.external-url}}" />
+  {% endif %}
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="google-site-verification" content="2H1ay38GKySKjPSJqasFa2H7Clw2vf7Sa5tCoDd1RNc" />
