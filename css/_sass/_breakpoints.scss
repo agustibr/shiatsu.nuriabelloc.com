@@ -54,6 +54,7 @@ $screen-md-max:              ($screen-lg-min - 1) !default;
 sneak,
 .sneak {
   display: block;
+  z-index: 999999;
   //display: none;
   position: fixed;
   bottom: 0;

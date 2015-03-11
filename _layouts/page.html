@@ -1,11 +1,39 @@
 ---
 layout: default
 ---
-<div class="page row center-xs {{ page.sibling }}">
-  <div class="main-content col-sm-8 col-md-7 col-md-5">
-    {% include lang-switcher.html %}
-    <h1 class="title">{{page.title}}</h1>
-    {{content}}
+<div class="page row {{ page.sibling }}">
+  <div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2">
+    <div class="main-content">
+
+      {% if page.sibling != null %}
+        {% include lang-switcher.html %}
+      {% endif %}
+      <h1 class="title">{{page.title}}</h1>
+
+      {% if page.carousel %}
+        <div id="carousel-sessio" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            {% for img in page.carousel %}
+              <li data-target="#carousel-sessio" data-slide-to="{{ forloop.index0 }}" {% if forloop.first%}class="active"{% endif%}></li>
+            {% endfor %}
+          </ol>
+
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+            {% for img in page.carousel %}
+              <div class="item {% if forloop.first %} active {% endif %}">
+                <img src="{{site.baseurl | prepend: site.url}}/image/{{img}}" alt="page.title" />
+              </div>
+            {% endfor %}
+          </div>
+        </div> <!-- /.carousel -->
+        <br><br>
+      {% endif %}
+
+      {{content}}
+
+    </div>
   </div>
 </div>
 {% include callout.html %}

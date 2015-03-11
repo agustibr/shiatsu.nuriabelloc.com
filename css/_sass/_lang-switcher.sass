@@ -6,14 +6,16 @@
   font-weight: bold
 .langs
   background: rgba($highlight-color, .3)
+  background: $bg url(../image/bg-paper.png)
   position: absolute
-  top: .5em
-  right: -2.3em
+  top: 0
+  right: -2em
+  +respond-to(phone)
+    right: .2em
   padding: .2em 0
   margin: 0
   text-align: right
   text-align: left
-  border: 1px solid $highlight-color
   border-left: none
   border-top-right-radius: .5em
   border-bottom-right-radius: .5em

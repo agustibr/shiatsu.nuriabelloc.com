@@ -1,0 +1,124 @@
+.site-footers
+  background-color: $primary-color
+  position: fixed
+  bottom: 0
+  left: 0
+  right: 0
+  padding: 0
+  text-align: center
+  margin-top: 50px
+  border-top: 1px solid $soft-color
+  .rows
+    margin: 0
+.footer-linkss
+  padding: 0px
+  margin: 0 auto
+  text-align: center
+  text-transform: uppercase
+  font-weight: 400
+  font-family: $font-titles
+  font-style: normal
+  li
+    margin: 0px .7rem
+    padding: 1rem 0
+    display: inline-block
+    font-size: 1rem
+    +respond-to(phone)
+      font-size: 1rem
+    letter-spacing: .1rem
+    &.active
+      border-top: 1px solid $alternate-color
+      +respond-to(tablet)
+        border-top-color: transparent
+      +respond-to(phone)
+        border-top-color: transparent
+    a, a:visited
+      color: $soft-color
+      &:hover
+        color: $alternate-color
+      &.active
+        color: $highlight-color
+
+// navbar
+.navbar.navbar-footer-links
+  .navbar-nav
+    display: inline-block
+    float: none
+    vertical-align: top
+  .navbar-collapse
+    text-align: center
+
+.navbar-footer-links
+  background-color: $primary-color
+  border-color: $soft-color
+  .navbar-nav
+    > li > a
+      color: $soft-color
+      text-align: center
+      text-transform: uppercase
+      font-weight: 400
+      font-family: $font-titles
+      font-style: normal
+      font-family: $font-titles
+      letter-spacing: .2rem
+      &:hover,
+      &:focus
+        color: $alternate-color
+        background-color: transparent
+    > .active > a
+      &,
+      &:hover,
+      &:focus
+        color: $highlight-color
+        background-color: transparent
+  .navbar-header
+    text-align: center
+  // the responsive nav toggle
+  .navbar-toggle
+    border-radius: 1.5em
+    border-color: $alternate-color
+    float: none
+    .icon-bar
+      background-color: $highlight-color
+    &:hover,
+    &:focus
+      background-color: $highlight-color
+      border-color: $soft-color
+      .icon-bar
+        background-color: $primary-color
+  .navbar-collapse,
+  .navbar-form
+    border-color: darken($primary-color, 7%)
+  // Dropdowns
+  .navbar-nav
+    > .open > a
+      &,
+      &:hover,
+      &:focus
+        background-color: $navbar-inverse-link-active-bg
+        color: $navbar-inverse-link-active-color
+    @media (max-width: $grid-float-breakpoint-max)
+      // Dropdowns get custom display
+      .open .dropdown-menu
+        > .dropdown-header
+          border-color: $navbar-inverse-border
+        .divider
+          background-color: $navbar-inverse-border
+        > li > a
+          color: $navbar-inverse-link-color
+          &:hover,
+          &:focus
+            color: $navbar-inverse-link-hover-color
+            background-color: $navbar-inverse-link-hover-bg
+        > .active > a
+          &,
+          &:hover,
+          &:focus
+            color: $navbar-inverse-link-active-color
+            background-color: $navbar-inverse-link-active-bg
+        > .disabled > a
+          &,
+          &:hover,
+          &:focus
+            color: $navbar-inverse-link-disabled-color
+            background-color: $navbar-inverse-link-disabled-bg

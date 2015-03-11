@@ -1,29 +1,33 @@
 {% assign newsletter-link = site.pages | where:"sibling", "newsletter" | where:"lang", page.lang %}
 
-<div id="newsletter">
+<div id="newsletter" class="well-sm text-center">
 
   <form
     action="https://tinyletter.com/nuriabelloc" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/nuriabelloc', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
     <h3>
-      <label for="tlemail">
         {% if page.lang == 'cat' %}
           Introduïu la vostra adreça de correu electrònic
         {% else %}
           Introduzca su dirección de correo electrónico
         {% endif %}
-      </label>
     </h3>
-    <p>
-      <input class="input-email" type="email" name="email" id="tlemail" />
-      <button type="submit" class="btn">
-        {% if page.lang == 'cat' %}
-          Enviar
-        {% else %}
-          Enviar
-        {% endif %}
-      </button>
-    </p>
     <input type="hidden" value="1" name="embed"/>
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <div class="input-group">
+          <input type="email" name="email" id="tlemail" class="form-control" placeholder="email">
+          <span class="input-group-btn">
+            <button class="btn btn-secondary" type="submit">
+              {% if page.lang == 'cat' %}
+                Enviar
+              {% else %}
+                Enviar
+              {% endif %}
+            </button>
+          </span>
+        </div><!-- /input-group -->
+      </div><!-- /.col-lg-6 -->
+    </div><!-- /.row -->
   </form>
 
   <p><a href="{{ newsletter-link[0].url | prepend: site.baseurl | prepend: site.url }}">newsletter</a></p>

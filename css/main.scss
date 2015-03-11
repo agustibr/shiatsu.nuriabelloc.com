@@ -5,12 +5,12 @@ sitemap: false
 @charset "utf-8";
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-	"normalize",
-  "flexboxgrid",
+	"variables_shiatsu-nuriabelloc",
   "breakpoints",
+  "bootstrap/bootstrap",
   "mixins",
   "smoothDivScroll",
   "base",
-  "hamburger",
-  "lang-switcher"
+  "lang-switcher",
+  "navbar-footer-links"
 ;
