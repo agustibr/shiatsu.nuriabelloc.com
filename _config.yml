@@ -21,6 +21,7 @@ timezone: Europe/Amsterdam
 markdown: kramdown
 layouts: _layouts
 includes: _includes
+exclude: [Gemfile, Gemfile.lock, Guardfile, todo.md]
 sass:
   sass_dir: css/_sass
 defaults:

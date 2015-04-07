@@ -3,6 +3,7 @@ title: Biografía
 menu: true
 permalink: es/bio/
 sibling: bio
+published: false
 ---
 
 ![Foto Núria Belloc]({{site.baseurl}}/image/nuria-belloc.jpg)

@@ -1,7 +1,7 @@
-* fix callout
-* fix color lila (+ lila)
-* fix title color
-* fix bug (tablet) preus
+* [x] fix callout
+* [x] fix color lila (+ lila)
+* [x] fix title color
+* [x] fix bug (tablet) preus
 * add more photos to espai
-* add preus to menu
+* [x] add preus to menu
 * espai in sessions page

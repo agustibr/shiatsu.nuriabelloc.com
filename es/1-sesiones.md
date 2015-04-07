@@ -4,6 +4,7 @@ description: "shiatsu, massatges a gracia"
 menu: true
 permalink: es/sesiones/
 sibling: sessions
+published: false
 ---
 _la durada de les sessions és entre 50 i 60 minuts cal portar roba còmode_
 
