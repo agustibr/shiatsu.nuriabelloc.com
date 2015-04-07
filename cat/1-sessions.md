@@ -4,11 +4,11 @@ description: "shiatsu, massatges a gracia"
 menu: true
 permalink: sessions/
 sibling: sessions
+espaiCarousel: ['espai-nuriabelloc-01.jpg','espai-nuriabelloc-02.jpg']
 ---
 
 {% assign sessions = site.pages | where:"lang", page.lang | where:"parent", 'sessions' | sort: 'id' %}
 {% assign preus-link = site.pages | where:"sibling", "preus" | where:"lang", page.lang %}
-{% assign espai-link = site.pages | where:"sibling", "espai" | where:"lang", page.lang %}
 
 <div class="row">
   {% for session in sessions %}
@@ -21,15 +21,24 @@ sibling: sessions
       </a>
     </div>
   {% endfor %}
-  <div class="col-md-12">
+</div>
+<div>
+  <h2>l'Espai</h2>
+  <div id="carousel-espai" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      {% for img in page.espaiCarousel %}
+        <li data-target="#carousel-espai" data-slide-to="{{ forloop.index0 }}" {% if forloop.first%}class="active"{% endif%}></li>
+      {% endfor %}
+    </ol>
 
-    <a class="btn btn-primary btn-block" href="{{ preus-link[0].url | prepend: site.baseurl | prepend: site.url }}">
-      {{ preus-link[0].title }}
-    </a>
-
-    <a class="btn btn-primary btn-block" href="{{ espai-link[0].url | prepend: site.baseurl | prepend: site.url }}">
-     {{ espai-link[0].title }}
-    </a>
-
-  </div>
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+      {% for img in page.espaiCarousel %}
+        <div class="item {% if forloop.first %} active {% endif %}">
+          <img src="{{site.baseurl | prepend: site.url}}/image/{{img}}" alt="page.title" />
+        </div>
+      {% endfor %}
+    </div>
+  </div> <!-- /.carousel -->
 </div>

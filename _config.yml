@@ -21,6 +21,7 @@ timezone: Europe/Amsterdam
 markdown: kramdown
 layouts: _layouts
 includes: _includes
+exclude: [Gemfile, Gemfile.lock, Guardfile, todo.md]
 sass:
   sass_dir: css/_sass
 defaults:
@@ -48,7 +49,7 @@ defaults:
 # Prose.io settings
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
-  ignore: ['_config.yml', '404.html', 'sitemap.xml', 'robots.txt', 'README.md', 'CNAME', '.gitignore', '.editorconfig', 'css', 'js','_layouts', '_includes', 'feed.xml', 'favicon.ico']
+  ignore: ['_config.yml', '404.html', 'sitemap.xml', 'robots.txt', 'README.md', 'CNAME', '.gitignore', '.editorconfig', 'css', 'js','_layouts', '_includes', 'feed.xml', 'favicon.ico', 'todo.md']
   media: 'image'
   metadata:
     '':

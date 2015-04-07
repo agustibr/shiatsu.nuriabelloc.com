@@ -11,23 +11,7 @@ layout: default
       <h1 class="title">{{page.title}}</h1>
 
       {% if page.carousel %}
-        <div id="carousel-sessio" class="carousel slide" data-ride="carousel">
-          <!-- Indicators -->
-          <ol class="carousel-indicators">
-            {% for img in page.carousel %}
-              <li data-target="#carousel-sessio" data-slide-to="{{ forloop.index0 }}" {% if forloop.first%}class="active"{% endif%}></li>
-            {% endfor %}
-          </ol>
-
-          <!-- Wrapper for slides -->
-          <div class="carousel-inner" role="listbox">
-            {% for img in page.carousel %}
-              <div class="item {% if forloop.first %} active {% endif %}">
-                <img src="{{site.baseurl | prepend: site.url}}/image/{{img}}" alt="page.title" />
-              </div>
-            {% endfor %}
-          </div>
-        </div> <!-- /.carousel -->
+        {% include carousel.html %}
         <br><br>
       {% endif %}
 

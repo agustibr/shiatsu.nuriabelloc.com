@@ -4,6 +4,7 @@ description: "Preus de les sessions de shiatsu, bono 3 sessions, primera sessió
 menu: true
 permalink: es/precios/
 sibling: preus
+published: false
 ---
 
 <div class="row pricing">

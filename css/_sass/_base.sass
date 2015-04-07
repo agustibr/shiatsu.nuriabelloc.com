@@ -40,9 +40,10 @@ hr
   +linear-gradient(rgba($soft-color, .4), rgba($soft-color, .0))
   padding: .6rem 0
   text-align: center
+  margin-right: -15px
+  margin-left: -15px
 .site-title
   margin: 0
-  border-bottom: 1px solid rgba($highlight-color, .7)
   text-transform: uppercase
   font-size: 3.5rem
   +respond-to(phone)
@@ -52,7 +53,7 @@ hr
   letter-spacing: .8rem
   a,
   a:visited
-    color: $primary-color
+    color: $secondary-color
     +letterpress($soft-color, .1)
   a:hover,
   a:active,
@@ -71,8 +72,7 @@ hr
   font-family: $font-text
   letter-spacing: .2rem
   color: $hard-color
-  text-shadow: 0 0px 1rem rgba($soft-color, .4)
-  // +letterpress($soft-color, .1)
+  text-shadow: 0 0 1rem rgba($soft-color, .4)
 
 
 .banner
@@ -97,7 +97,7 @@ hr
     margin: 0 0 4rem
     color: $soft-color
     +letterpress($primary-color, .5)
-    text-shadow: 0 0px 1rem rgba($hard-color, .9)
+    text-shadow: 0 0 1rem rgba($hard-color, .9)
     text-align: center
   .caption
     padding: .3rem
@@ -140,16 +140,30 @@ hr
   +respond-to(phone)
     margin: 2rem auto 1rem
     padding: 1rem 1rem 1rem
-  h2
-    margin: 0
-    padding: 0
-    line-height: 1.3em
-    font-weight: 100
-    //border-bottom: 1px solid $soft-color
-    display: inline-block
-    // +letterpress($soft-color, .8)
-    font-family: $font-titles
+  .title
+    text-align: center
+    margin: 0 0 3rem
+    font-size: 2rem
     color: rgba($hard-color, .9)
+    +letterpress($soft-color, .8)
+    border-bottom: 1px solid rgba($hard-color, .5)
+    padding-bottom: .4em
+    font: italic 700 64px/1 $font-titles
+    letter-spacing: 0.05em
+    +respond-to(phone)
+      margin: 0 0 1.5rem
+      font-size: 2rem
+  h2
+    line-height: 1.3em
+    font-weight: 400
+    display: block
+    +letterpress($soft-color, .8)
+    font-family: $font-titles
+    font-style: italic
+    color: $hard-color
+    border-bottom: 1px solid rgba($hard-color, .3)
+    +respond-to(phone)
+      font-size: 1.5rem
   p
     line-height: 1.6em
     strong
@@ -157,19 +171,6 @@ hr
     em
       font-weight: 300
       font-style: normal
-  .title
-    text-align: center
-    margin: 0 0 3rem
-    font-size: 2rem
-    +respond-to(phone)
-      margin: 0 0 1.5rem
-      font-size: 2rem
-    color: rgba($hard-color, .9)
-    +letterpress($soft-color, .8)
-    border-bottom: 1px solid rgba($hard-color, .5)
-    padding-bottom: .4em
-    font: italic 700 64px/1 $font-titles
-    letter-spacing: 0.05em
 
   blockquote
     // border-left: 1px solid $alternate-color
@@ -213,9 +214,32 @@ hr
   border: 1px solid $soft-color
   height: auto
   width: 100%
+.thumbnail
+  font-family: $font-titles
+  text-align: center
+  border-color: $highlight-color
+  padding: 0
+  position: relative
+  display: block
+  .caption
+    position: absolute
+    bottom: 0
+    right: 0
+    left: 0
+    //+linear-gradient(rgba(10,10,10, .1), rgba(10,10,110, 1))
+  h3
+    color: white
+    margin: 0
+    text-shadow: 0 0 10px black
+    transition: all 0.4s ease
+  &:hover h3
+    color: $highlight-color
+
 //
 #newsletter
   background: rgba($alternate-color, .3)
+  border-bottom-left-radius: 0
+  border-bottom-right-radius: 0
   h3
     font-size: 1.5rem
     color: darken($highlight-color, 35)
@@ -229,6 +253,8 @@ hr
 #contactme
   background: rgba($primary-color, .3)
   color: $primary-color
+  border-top-left-radius: 0
+  border-top-right-radius: 0
   h3
     font-size: 1.5rem
   a
@@ -237,5 +263,7 @@ hr
     font-weight: 600
     &:hover
       color: lighten($soft-color, 5)
+.btn-primary
+  +button-variant($soft-color, $primary-color, $primary-color)
 .btn-secondary
   +button-variant($highlight-color, $alternate-color, $alternate-color)
