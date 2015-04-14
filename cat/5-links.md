@@ -14,7 +14,7 @@ sibling: links
 
 ---
 
-# Crédits
+## Crédits
 
 + textos: Núria Belloc
 + fotografies de Clàudia Serrahima Urgell
