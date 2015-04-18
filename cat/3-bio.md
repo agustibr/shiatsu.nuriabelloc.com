@@ -15,7 +15,7 @@ He complementat la meva formació com a terapeuta amb l'estudi del Kiyindo Shiat
 
 He treballat com a Terapeuta als centres: Ingravitt (Les Franqueses del Vallès), Sattva (Gràcia) i Sincronia (Gràcia).
 
-Actualment, he obert aquest nou espai a Bioveu (gràcia) que conviu amb la música i un entorn creatiu. A més a més, estic realitzant sessions de Shiatsu al Centre de Fisioteràpia i [Osteopatia Crios][crios], i supervisant el Curs de Shiatsu que imparteix Borja Díaz a l'Institut [Wu Shu][wushu].
+Actualment, he obert aquest nou espai a Bioveu (gràcia) que conviu amb la música i un entorn creatiu. A més a més, estic realitzant sessions de Shiatsu al [Centre de Fisioteràpia i Osteopatia Crios][crios], i supervisant el Curs de Shiatsu que imparteix Borja Díaz a l'[Institut Wu Shu][wushu].
 
 [crios]: http://www.criosgracia.com/
 [wushu]: http://www.institutodewushu.com/

@@ -1,33 +1,9 @@
-{% assign sessions-link = site.pages | where:"sibling", "sessions" | where:"lang", page.lang %}
 {% assign contact-link = site.pages | where:"sibling", "contact" | where:"lang", page.lang %}
 
-<div id="contactme" class="well-sm text-center">
-  <h3>
-    {% if page.lang == 'cat' %}
-      Vols concertar una
-    {% else %}
-      Introduzca su dirección de correo electrónico
-    {% endif %}
-    <a href="{{ sessions-link[0].url | prepend: site.baseurl | prepend: site.url }}">
-    {% if page.lang == 'cat' %}
-      sessió
-    {% else %}
-      sesión
-    {% endif %}
-    </a>?
-  </h3>
-  <p>
-    <a href="{{ contact-link[0].url | prepend: site.baseurl | prepend: site.url }}">
-      {% if page.lang == 'cat' %}
-        Estic a Gràcia, Barcelona!
-      {% else %}
-        Estoy en Gracia, Barcelona!
-      {% endif %}
-    </a>
-    {% if page.lang == 'cat' %}
-      al centre BIOVEU.
-    {% else %}
-      en el centro BIOVEU.
-    {% endif %}
-  </p>
-</div>
+<a id="contactme" class="btn btn-contactme btn-block btn-lg" href="{{ contact-link[0].url | prepend: site.baseurl | prepend: site.url }}">
+  {% if page.lang == 'cat' %}
+    Concertar una sessió
+  {% else %}
+    Concertar una sessión
+  {% endif %}
+</a>

@@ -5,9 +5,21 @@ menu: false
 description: "Sessions de Shiatsu a Gràcia, Barcelona. Fisioterapia, osteopatia, rehabilitació i consciència corporal. Medicina Xinesa"
 permalink: /
 sibling: index
+iniciCarousel: ['shiatsu-nuriabelloc-01.jpg','shiatsu-nuriabelloc-02.jpg','shiatsu-nuriabelloc-03.jpg','shiatsu-nuriabelloc-04.jpg','shiatsu-nuriabelloc-05.jpg','shiatsu-nuriabelloc-06.jpg']
 ---
+
 <div class="lang-index">
   {% include lang-switcher.html %}
 </div>
-{% include banner.html %}
+
+<section class="row banner">
+  <div id="" class="marquee">
+    {% for img in page.iniciCarousel %}
+      <img src="{{site.baseurl | prepend: site.url}}/image/{{img}}" alt="{{site.title}}, {{site.description_short}}" />
+    {% endfor %}
+  </div>
+  <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 ">
+    <h1>{{ site.description }}</h1>
+  </div>
+</section>
 {% include callout.html %}

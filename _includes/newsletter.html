@@ -6,9 +6,9 @@
     action="https://tinyletter.com/nuriabelloc" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/nuriabelloc', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
     <h3>
         {% if page.lang == 'cat' %}
-          Introduïu la vostra adreça de correu electrònic
+          Vols rebre informació? introdueix el teu email
         {% else %}
-          Introduzca su dirección de correo electrónico
+          ¿Quieres receibir información? introduce tu email
         {% endif %}
     </h3>
     <input type="hidden" value="1" name="embed"/>
@@ -30,6 +30,14 @@
     </div><!-- /.row -->
   </form>
 
-  <p><a href="{{ newsletter-link[0].url | prepend: site.baseurl | prepend: site.url }}">newsletter</a></p>
+  <p>
+    <a href="{{ newsletter-link[0].url | prepend: site.baseurl | prepend: site.url }}">
+      {% if page.lang == 'cat' %}
+        arxiu de butlletins
+      {% else %}
+        archivo de newsletters
+      {% endif %}
+    </a>
+  </p>
 </div>
 
