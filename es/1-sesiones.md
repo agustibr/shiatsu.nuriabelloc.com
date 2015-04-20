@@ -2,7 +2,7 @@
 title: Sesiones
 description: "shiatsu, massatges a gracia"
 menu: true
-permalink: es/sesiones/
+permalink: es/
 sibling: sessions
 published: false
 ---
