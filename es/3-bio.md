@@ -1,5 +1,6 @@
 ---
 title: Biografía
+description: "Núria Belloc Rocasalbas, Terapeuta de Shiatsu."
 menu: true
 permalink: es/bio/
 sibling: bio
