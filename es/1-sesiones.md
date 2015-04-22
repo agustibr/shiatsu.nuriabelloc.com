@@ -4,58 +4,38 @@ description: "shiatsu, massatges a gracia"
 menu: true
 permalink: es/
 sibling: sessions
-published: false
----
-_la durada de les sessions és entre 50 i 60 minuts cal portar roba còmode_
-
+shiatsuCarousel: ['sessio-shiatsu-nuriabelloc-01.jpg','sessio-shiatsu-nuriabelloc-02.jpg','sessio-shiatsu-nuriabelloc-03.jpg','sessio-shiatsu-nuriabelloc-04.jpg','sessio-shiatsu-nuriabelloc-05.jpg','sessio-shiatsu-nuriabelloc-06.jpg','sessio-shiatsu-nuriabelloc-07.jpg','sessio-shiatsu-nuriabelloc-08.jpg','sessio-shiatsu-nuriabelloc-09.jpg','sessio-shiatsu-nuriabelloc-10.jpg']
+espaiCarousel: ['espai-nuriabelloc-01.jpg','espai-nuriabelloc-02.jpg','espai-nuriabelloc-03.jpg','espai-nuriabelloc-04.jpg']
 ---
 
-+ [Shiatsu](#shiatsu)
-+ [Massatge Terapèutic](#massatge-teraputic)
-+ [Shiatsu per a músics](#shiatsu-per-a-msics)
+<section class="row banner">
+  <div class="marquee">
+    {% for img in page.shiatsuCarousel %}
+      <img src="{{site.baseurl | prepend: site.url}}/image/{{img}}" alt="{{page.title}}, {{site.description_short}}" />
+    {% endfor %}
+  </div>
+</section>
 
----
+> _la duración de las sesiones es entre 50 i 60 minutos_
 
-## Shiatsu
-
-El Shiatsu és una teràpia manual que es fonamenta en l'antiga filosofia i medicina tradicional xinesa i japonesa. Es basa en l'aplicació de pressió sobre els meridians i punts, així com també, mitjançant estiraments i mobilitzacions.
-
-> Fomenta la circulació del Ki i estimula diversos sistemes de l'organisme, promovent la vitalitat i potenciant la capacitat d'autocuració.
-
-Combino l'essència del shiatsu amb el treball corporal, l’estudi del moviment del cos, coneixements d’anatomia i fisiologia d’occident. Amb aquesta base, genero eines per a treballar el símptoma, la causa i la dinàmica creada.
-
-Son sessions personalitzades i úniques, en les que treballarem conjuntament, l’aprenentatge i el feedback són elements imprescindibles. La comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats. El shiatsu proporciona un ventall d’eines corporals que permeten un ritme respectuós i a la mesura de cadascú.
+> _traer ropa cómoda_
 
 ---
 
-> [Preus per a tothom!]({{site.baseurl}}/preus) - [on sóc?]({{site.baseurl}}/contacte)
+El Shiatsu es una terapia manual de origen japonés que se fundamenta en la antigua filosofía y medicina tradicional china. Se basa en la aplicación de presión sobre los meridianos y puntos, así com también, mediante estiramentos y movilizaciones.
 
----
+> El Shiatsu estimula diversos sistemas del organismo, promoviendo la vitalidad y potenciando la capacidad de autocuración.
 
-## Massatge Terapèutic
+Combino la esencia del shiatsu con el trabajo corporal, el estudio del movimento del cuerpo, conocimientos de anatomía y fisiología de occidente. Con esta base, genero herramientas para trabajar el síntoma, la causa y la dinámica creada.
 
-La sessió és relaxant, per afluixar tensions i dissoldre bloquejos en l’organisme. Combino el quiromassatge i el shiatsu, ambdues teràpies manuals per a crear una sessió personalitzada.
+Son sesiones personalizadas y únicas, en las que el aprendizaje y el feedback son elementos imprescindibles. La comprensión sensitiva del motivo de trabajo corporal ayuda a que el sistema nervioso reorganice incluso los hábitos más arraigados. El shiatsu proporciona un abanico de herramientas corporales que permiten un ritmo respetuoso y a la medida de cada persona.
 
-> amb olis elaborats artesanalment amb plantes medicinals: hipèric, calèndula, gingebre, farigola, romaní ...
 
-Millora el funcionament de les articulacions, augmenta el reg sanguini i afavoreix el sistema nerviós parasimpàtic; optimitzant el funcionament dels òrgans, el transport d’oxigen a la sang i eliminant les substàncies de rebuig produïdes pel metabolisme muscular. D’una manera reflexa, el massatge col∙labora activament en la regulació i equilibri dels estats anímics.
-
----
-
-> [Preus per a tothom!]({{site.baseurl}}/preus) - [on sóc?]({{site.baseurl}}/contacte)
-
----
-
-## Shiatsu per a Músics
-
----
-
-Les sessions van adreçades a aquells músics que tinguin una motivació per a pal·liar els danys que ocasionen algunes postures corporals i moviments repetitius, amb la intenció de trobar nous recursos propis i cercar més fluïdesa en el moviment i la respiració.
-
-El motiu principal de les sessions individuals és centrar-nos una o vàries dolencies generades per un hàbit postural, en les quals em focalitzaré en la persona i no en la tècnica.  Al llarg de les sessions es combinarà la percepció d'un/a mateix/a al tocar, i en base a la petició de cada músic farem un treball corporal propi del shiatsu. En els casos que cregui convenient prepararé material didàctic per la comprensió del treball corporal. Son sessions basades en l’experimentació, la resolució i l’aprenentatge de noves maneres de moure’s, potenciant els recursos individuals de cada músic.
-
----
-
-> [Preus per a tothom!]({{site.baseurl}}/preus) - [on sóc?]({{site.baseurl}}/contacte)
-
----
+## El espacio
+<section class="row banner">
+  <div class="marquee">
+    {% for img in page.espaiCarousel %}
+      <img src="{{site.baseurl | prepend: site.url}}/image/{{img}}" alt="{{page.title}}, {{site.description_short}}" />
+    {% endfor %}
+  </div>
+</section>
