@@ -1,6 +1,6 @@
 ---
 title: Sessions de Shiatsu
-description: "shiatsu a gracia"
+description: "Sessions de Shiatsu en Gràcia, Barcelona."
 menu: true
 permalink: /
 sibling: sessions
@@ -9,7 +9,7 @@ espaiCarousel: ['espai-nuriabelloc-01.jpg','espai-nuriabelloc-02.jpg','espai-nur
 ---
 
 <section class="row banner">
-  <div id="" class="marquee">
+  <div class="marquee">
     {% for img in page.shiatsuCarousel %}
       <img src="{{site.baseurl | prepend: site.url}}/image/{{img}}" alt="{{page.title}}, {{site.description_short}}" />
     {% endfor %}

@@ -1,6 +1,6 @@
 ---
-title: Sesiones
-description: "shiatsu, massatges a gracia"
+title: Sesiones de Shiatsu
+description: "Sesiones de Shiatsu en Gracia, Barcelona."
 menu: true
 permalink: es/
 sibling: sessions
@@ -32,6 +32,7 @@ Son sesiones personalizadas y únicas, en las que el aprendizaje y el feedback s
 
 
 ## El espacio
+
 <section class="row banner">
   <div class="marquee">
     {% for img in page.espaiCarousel %}
