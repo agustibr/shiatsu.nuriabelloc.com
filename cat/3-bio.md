@@ -8,7 +8,7 @@ sibling: bio
 
 ![Foto Núria Belloc]({{site.baseurl}}/image/nuria-belloc.jpg)
 
-Sóc llicenciada en Belles Arts amb l'especialitat d'escultura i titulada en Shiatsu i Moviment.
+Sóc llicenciada en Belles Arts amb l'especialitat d'escultura i titulada en [Shiatsu i Moviment](http://www.shiatsu-movimiento.com).
 
 Amb el Shiatsu he trobat la manera d'integrar la creativitat amb la salut i la qualitat de relació entre persones.
 
