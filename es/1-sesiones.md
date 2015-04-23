@@ -9,7 +9,6 @@ espaiCarousel: ['espai-nuriabelloc-01.jpg','espai-nuriabelloc-02.jpg','espai-nur
 redirect_from:
   - es/sesiones/
 ---
-
 <section class="row banner">
   <div class="marquee">
     {% for img in page.shiatsuCarousel %}
@@ -17,12 +16,6 @@ redirect_from:
     {% endfor %}
   </div>
 </section>
-
-> _la duración de las sesiones es entre 50 i 60 minutos_
-
-> _traer ropa cómoda_
-
----
 
 El Shiatsu es una terapia manual de origen japonés que se fundamenta en la antigua filosofía y medicina tradicional china. Se basa en la aplicación de presión sobre los meridianos y puntos, así com también, mediante estiramentos y movilizaciones.
 
@@ -32,6 +25,9 @@ Combino la esencia del shiatsu con el trabajo corporal, el estudio del movimento
 
 Son sesiones personalizadas y únicas, en las que el aprendizaje y el feedback son elementos imprescindibles. La comprensión sensitiva del motivo de trabajo corporal ayuda a que el sistema nervioso reorganice incluso los hábitos más arraigados. El shiatsu proporciona un abanico de herramientas corporales que permiten un ritmo respetuoso y a la medida de cada persona.
 
+> _la duración de las sesiones es entre 50 i 60 minutos_
+
+> _traer ropa cómoda_
 
 ## El espacio
 
