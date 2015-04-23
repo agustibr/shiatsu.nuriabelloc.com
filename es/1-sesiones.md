@@ -18,12 +18,6 @@ redirect_from:
   </div>
 </section>
 
-> _la duración de las sesiones es entre 50 i 60 minutos_
-
-> _traer ropa cómoda_
-
----
-
 El Shiatsu es una terapia manual de origen japonés que se fundamenta en la antigua filosofía y medicina tradicional china. Se basa en la aplicación de presión sobre los meridianos y puntos, así com también, mediante estiramentos y movilizaciones.
 
 > El Shiatsu estimula diversos sistemas del organismo, promoviendo la vitalidad y potenciando la capacidad de autocuración.
@@ -32,6 +26,9 @@ Combino la esencia del shiatsu con el trabajo corporal, el estudio del movimento
 
 Son sesiones personalizadas y únicas, en las que el aprendizaje y el feedback son elementos imprescindibles. La comprensión sensitiva del motivo de trabajo corporal ayuda a que el sistema nervioso reorganice incluso los hábitos más arraigados. El shiatsu proporciona un abanico de herramientas corporales que permiten un ritmo respetuoso y a la medida de cada persona.
 
+> _la duración de las sesiones es entre 50 i 60 minutos_
+
+> _traer ropa cómoda_
 
 ## El espacio
 
