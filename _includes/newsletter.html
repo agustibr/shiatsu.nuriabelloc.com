@@ -1,5 +1,3 @@
-{% assign newsletter-link = site.pages | where:"sibling", "newsletter" | where:"lang", page.lang %}
-
 <div id="newsletter" class="well-sm text-center">
 
   <form
@@ -31,7 +29,7 @@
   </form>
 
   <p>
-    <a href="{{ newsletter-link[0].url | prepend: site.baseurl | prepend: site.url }}">
+    <a href="{{ '/newsletter' | prepend: site.baseurl | prepend: site.url }}">
       {% if page.lang == 'cat' %}
         arxiu de butlletins
       {% else %}

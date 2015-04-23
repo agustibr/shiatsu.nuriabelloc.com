@@ -17,7 +17,7 @@ hr
   border-right: none
   border-bottom: none
   border-left: none
-  margin: 1rem 0 2rem 0
+  margin: 1rem -3rem 2rem
 .text-highlight
   color: $alternate-color
 .text-center
@@ -81,36 +81,15 @@ hr
 .banner
   text-align: center
   color: $soft-color
-  padding: 2rem 1rem 2rem 1rem
+  padding: 2em 1em
   +respond-to(phone)
     padding: .8em .3em .6em .3em
-
-  h1
-    font-size: 2rem
-    +respond-to(phone)
-      font-size: 1.4rem
-
-    font-style: normal
-    font-family: $font-text
-    padding: 1rem 1.5rem
-    margin: 0 0 4rem
-    color: $alternate-color
-    +letterpress($primary-color, .5)
-    text-shadow: 0 0 1rem rgba($soft-color, .9)
-    text-align: center
-  .caption
-    padding: .3rem
-    display: inline-block
-    font-size: .8rem
-    text-transform: uppercase
-    text-align: right
-  // banner
   .marquee
     height: 400px
     +respond-to(phone)
       height: 200px
     position: relative
-    margin: 0 -41px
+    margin: 0 -42px
     div.scrollableArea img
       height: 400px
       +respond-to(phone)
@@ -123,11 +102,10 @@ hr
 .main-content
   padding: 25px
   width: 100%
-  margin: 3rem auto 1rem
+  margin: 1rem auto
   padding: 1.5rem 3rem 2rem
   background: $bg url(../image/bg-paper.png)
   text-align: justify
-  font-family: $font-text
   color: rgba($hard-color, .8)
   border-radius: .5rem
   border-top-right-radius: 0
@@ -141,16 +119,18 @@ hr
     text-align: left
   .title
     text-align: center
-    margin: 0 0 3rem
-    font-size: 2rem
+    margin: 0 0 .3em
     color: rgba($hard-color, .9)
     +letterpress($soft-color, .8)
     border-bottom: 1px solid rgba($hard-color, .5)
     padding-bottom: .4em
     font: italic 700 64px/1 $font-titles
     letter-spacing: 0.05em
+    +respond-to(laptop)
+      font-size: 58px
+    +respond-to(tablet)
+      font-size: 48px
     +respond-to(phone)
-      margin: 0 0 1.5rem
       font-size: 2rem
   h2
     line-height: 1.3em
@@ -160,7 +140,9 @@ hr
     font-family: $font-titles
     font-style: italic
     color: $hard-color
-    border-bottom: 1px solid rgba($hard-color, .3)
+    border-top: 1px solid rgba($hard-color, .3)
+    margin: 3rem -3rem 0
+    padding: .0 3rem
     +respond-to(phone)
       font-size: 1.5rem
   p
@@ -170,53 +152,76 @@ hr
     em
       font-weight: 300
       font-style: normal
-
+  dl
+    margin-bottom: 1em
+  dt
+    font-weight: 400
+  dd
+    font-weight: 300
+    padding-left: .3em
+    margin-bottom: .6em
   blockquote
     // border-left: 1px solid $alternate-color
-    padding: .1rem 2rem
+    padding: .1rem 2rem 1rem
     margin: 0
+    + blockquote
+      margin-top: -1rem
     > p
       font-style: italic
       font-family: $font-text
       font-weight: 100
       margin: .3rem
-      line-height: 1.5rem
+      line-height: 1.4em
       font-size: 1.3rem
       text-align: center
       color: $alternate-color
     +respond-to(phone)
       padding: .1rem 1rem
+  .contact &
+    text-align: center
+    h1:not(.title)
+      font: normal 100 1.4em $font-text
+      +respond-to(phone)
+        font-size: 1.2em
+    .l3
+      color: #3c763d
+    .l4
+      color: #8a6d3b
+  .preus &
+    text-align: center
+    p
+      margin: 0
+    h3,
+    h4
+      margin: 0
+      font-weight: normal
+      color: rgba($hard-color, .9)
+    h3
+      font-size: 5rem
+    h4
+      font-size: 4rem
+    h3:after,
+    h4:after
+      content: "€"
+      font-size: 1.3rem
+      vertical-align: 2rem
+      color: rgba($hard-color, .8)
 
-.pricing
-  text-align: center
-  p
-    margin: 0
-  .price
-    margin: 0
-    font-size: 1.5rem
-    font-weight: normal
-  .val
-    font-size: 4rem
-    color: $hard-color
-  .sup
-    font-size: 1.2rem
-    vertical-align: 2rem
-.l3
-  color: #3c763d
-.l4
-  color: #8a6d3b
 .bio h1 + p
   float: right
   display: block
   width: 150px
   margin: 0 0 1rem 1rem
+  +respond-to(phone)
+    float: none
+    text-align: center
+    margin: 0 auto 1rem
 .bio img
   border-radius: 50%
   border: 1px solid $soft-color
   height: auto
   width: 100%
 
-//
 #newsletter
   background: rgba($alternate-color, .3)
   border-bottom-left-radius: 0

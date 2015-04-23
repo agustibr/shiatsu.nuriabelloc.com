@@ -3,3 +3,6 @@ layout: null
 title : "robots.txt"
 sitemap: false
 ---
+# www.robotstxt.org/
+
+User-agent: *
