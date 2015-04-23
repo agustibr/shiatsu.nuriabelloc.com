@@ -8,7 +8,7 @@ sibling: bio
 
 ![Foto Núria Belloc]({{site.baseurl}}/image/nuria-belloc.jpg)
 
-Soy licenciada en Bellas Artes en la especialidad de escultura y titulada en Shiatsu y Movimento.
+Soy licenciada en Bellas Artes en la especialidad de escultura y titulada en [Shiatsu y Movimento](http://www.shiatsu-movimiento.com).
 
 Con el Shiatsu he encontrado la manera de integrar la creatividad con la salud y la calidad de relación entre personas.
 
