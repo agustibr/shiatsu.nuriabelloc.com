@@ -14,7 +14,7 @@ permalink: pretty
 url: '' # http://shiatsu.nuriabelloc.com
 baseurl: '' # '/f3'
 cdn: 'https://googledrive.com/host/0Bxwn2g3WSTbRfk1DVGpwbEl4dFA3ajFiTGFyZlA0WklGY3Izc0YtSHhVYncyVk01SzBibjQ'
-# analytics: 'UA-59689079-1'
+analytics: 'UA-59689079-1'
 timezone: Europe/Amsterdam
 date: 2015-04-23 00:00:00 # for pages in feed.xml
 # Build settings

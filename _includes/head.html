@@ -20,7 +20,7 @@
 
   <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" />
 
-  <meta content="{{ '/image/og.png' | prepend: site.baseurl }}" property="og:image" />
+  <meta content="{{ '/image/og.png' | prepend: site.baseurl | prepend: site.url }}" property="og:image" />
   <meta content='{{ site.url }}{{site.baseurl}}{{ page.url }}' property='og:url' />
   {% if page.description %}
     <meta content="{{ page.description }}" property='og:description' />

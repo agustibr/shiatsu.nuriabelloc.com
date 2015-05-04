@@ -1,6 +1,6 @@
 ---
 title: Sessions de Shiatsu
-description: "Sessions de Shiatsu en Gràcia, Barcelona."
+description: "Sessions de Shiatsu a Gràcia, Barcelona."
 menu: true
 permalink: /
 sibling: sessions
