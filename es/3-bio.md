@@ -12,11 +12,11 @@ Soy licenciada en Bellas Artes en la especialidad de escultura y titulada en [Sh
 
 Con el Shiatsu he encontrado la manera de integrar la creatividad con la salud y la calidad de relación entre personas.
 
-He complementado mi formación como terapeuta con el estudio del Kiyindo Shiatsu (Pierre Clavreux), el seminario Thai massage meets Ostheopathy (David Lutt i Karine Alayna) y Entrenament per a Terapeutes (Emili Pulido i Cristina Hernando). Continúo formandome en el Postgrado Contacte Viu (Cristina Hernando)
+He complementado mi formación como terapeuta con el estudio del _Kiyindo Shiatsu_ (Pierre Clavreux), el seminario _Thai massage meets Ostheopathy_ (David Lutt y Karine Alayna) y _Entrenamiento para Terapeutas_ (Emili Pulido y Cristina Hernando). Sigo formándome en el Postgrado _Contacte Viu_ (Cristina Hernando).
 
-He trabajado como Terapeuta en los centros: Ingravitt (Les Franqueses del Vallès), Sattva (Gràcia) i Sincronia (Gràcia). He colaborado en enseñanza en el curso de Shiatsu del [Instituto Wu Shu][wushu].
+He trabajado como Terapeuta en los centros: _Ingravitt_ (Les Franqueses del Vallès), _Sattva_ (Gràcia) y _Sincronia_ (Gràcia). He colaborado en enseñanza en el curso de Shiatsu del _[Instituto Wu Shu][wushu]_.
 
-Actualmente, ejerzo como Terapeuta de Shiatsu en mi propia consulta (gracia) y en el [Centro de Recuperación Integral y Osteopatia Crios][crios].
+Actualmente, ejerzo como Terapeuta de Shiatsu en mi propia consulta (gracia) y en el _[Centro de Recuperación Integral y Osteopatia Crios][crios]_.
 
 [crios]: http://www.criosgracia.com
 [wushu]: http://www.institutodewushu.com
