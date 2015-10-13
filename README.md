@@ -11,3 +11,5 @@ image/
 ```
 
 All other directories and files are MIT Licensed (where applicable).
+
+---
