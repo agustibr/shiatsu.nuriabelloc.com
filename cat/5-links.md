@@ -23,6 +23,11 @@ Centre de Fisioteràpia i Osteopatia Crios
 Institut Wu Shu
 : [institutodewushu.com](http://www.institutodewushu.com/)
 
+Kiiko Matsumoto
+: [kiikomatsumoto.com](http://www.kiikomatsumoto.com/)
+
+Andy Harrop
+: [dulwichacupuncture.co.uk](http://www.dulwichacupuncture.co.uk)
 
 ---
 
