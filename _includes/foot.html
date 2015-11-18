@@ -27,3 +27,6 @@
     });
   </script>
 {% endif %}
+<script>
+  jQuery('a[href^="http"]').not('a[href^="{{ site.url }}"]').attr('target', '_blank');
+</script>
