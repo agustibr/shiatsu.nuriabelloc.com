@@ -40,4 +40,4 @@ fotografías
 : Clàudia Serrahima Urgell
 
 diseño i programación web
-: [Agustí Belloc](http://agusti.cat)
+: [Agustí B.R.](http://agusti.cat)
