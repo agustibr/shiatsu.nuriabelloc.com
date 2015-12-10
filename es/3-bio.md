@@ -14,6 +14,8 @@ Con el Shiatsu he encontrado la manera de integrar la creatividad con la salud y
 
 He complementado mi formación como terapeuta con el estudio del _Kiyindo Shiatsu_ (Pierre Clavreux), el seminario _Thai massage meets Ostheopathy_ (David Lutt y Karine Alayna) y _Entrenamiento para Terapeutas_ (Emili Pulido y Cristina Hernando). Sigo formándome en el Postgrado _Contacte Viu_ (Cristina Hernando).
 
+Actualmente me estoy formando como acupuntora con los estudios: **Bases de la MTCH para profesionales de la Salud (ACUPUNTURA TUNG)**, European School of Acupuncture i el master de **[KIIKO MATSUMOTO ACUPUNCTURE](http://www.kiikomatsumoto.com/)** impartido por Andy Harrop, titulación con Certificación Europea.
+
 He trabajado como Terapeuta en los centros: _Ingravitt_ (Les Franqueses del Vallès), _Sattva_ (Gracia), _Sincronia_ (Gracia) y en el _[Centro de Recuperación Integral y Osteopatia Crios][crios]_. He colaborado en enseñanza en el curso de Shiatsu del _[Instituto Wu Shu][wushu]_.
 
 Actualmente, ejerzo como Terapeuta de Shiatsu en mi propia consulta (Gracia) y en la empresa _[Equilit][equilit]_.

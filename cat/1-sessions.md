@@ -5,7 +5,7 @@ menu: true
 permalink: /
 sibling: sessions
 shiatsuCarousel: ['sessio-shiatsu-nuriabelloc-01.jpg','sessio-shiatsu-nuriabelloc-02.jpg','sessio-shiatsu-nuriabelloc-03.jpg','sessio-shiatsu-nuriabelloc-04.jpg','sessio-shiatsu-nuriabelloc-05.jpg','sessio-shiatsu-nuriabelloc-06.jpg','sessio-shiatsu-nuriabelloc-07.jpg','sessio-shiatsu-nuriabelloc-08.jpg','sessio-shiatsu-nuriabelloc-09.jpg','sessio-shiatsu-nuriabelloc-10.jpg']
-espaiCarousel: ['espai-nuriabelloc-01.jpg','espai-nuriabelloc-02.jpg','espai-nuriabelloc-03.jpg','espai-nuriabelloc-04.jpg']
+espaiCarousel: ['espai-nuriabelloc-01.jpg','espai-nuriabelloc-02.jpg','espai-nuriabelloc-03.jpg','espai-nuriabelloc-04.jpg','espai-nuriabelloc-05.jpg']
 redirect_from:
   - sessions/
 ---
