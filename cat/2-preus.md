@@ -20,6 +20,8 @@ Preu sessió
 
 Bono **3** sessions
 
-#### 95
+#### 105
 
 ---
+
+Descomptes en sessions continuades
