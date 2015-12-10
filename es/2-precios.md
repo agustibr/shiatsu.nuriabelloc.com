@@ -20,6 +20,8 @@ Precio sesión
 
 Bono 3 sesiones
 
-#### 95
+#### 105
 
 ---
+
+Descuentos en sesiones continuadas
