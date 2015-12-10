@@ -8,18 +8,18 @@ sibling: preus
 
 Primera sesión
 
-### 25
+### 30
 
 ---
 
 Precio sesión
 
-#### 35
+#### 40
 
 ---
 
 Bono 3 sesiones
 
-#### 90
+#### 95
 
 ---
