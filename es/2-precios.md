@@ -8,6 +8,7 @@ published: true
 ---
 
 
+
 Precio sesión
 
 ### 35
@@ -23,6 +24,4 @@ tienes descuento en tu sesión, te sale por
 
 Vale Regalo
 
-![val_regal.jpg]({{site.baseurl}}/image/val_regal.jpg)
 #### 35
-
