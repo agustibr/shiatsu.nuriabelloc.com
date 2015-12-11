@@ -4,24 +4,25 @@ description: "Preus de les sessions de Shiatsu a Gracia; bono 3 sessions, primer
 menu: true
 permalink: preus/
 sibling: preus
+published: false
 ---
 
-Primera sessió
-
-### 30
-
----
 
 Preu sessió
 
-#### 40
+### 35
 
 ---
 
-Bono **3** sessions
+Si portes un amic o amiga a fer-se un shiatsu
+tens descompte en la teva sessió, et surt per
 
-#### 105
+#### 30
 
 ---
 
-Descomptes en sessions continuades
+Val regal
+
+#### 35
+
+
