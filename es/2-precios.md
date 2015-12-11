@@ -4,24 +4,23 @@ description: "Precios de las sesiones de Shiatsu en Gracia; bono 3 sesiones, pri
 menu: true
 permalink: es/precios/
 sibling: preus
+published: true
 ---
 
-Primera sesión
-
-### 30
-
----
 
 Precio sesión
 
-#### 40
+### 35
 
 ---
 
-Bono 3 sesiones
+Si traes a un amigo o amiga a hacerse Shiatsu
+tienes descuento en tu sesión, te sale por
 
-#### 105
+#### 30
 
 ---
 
-Descuentos en sesiones continuadas
+Vale Regalo
+
+#### 35
