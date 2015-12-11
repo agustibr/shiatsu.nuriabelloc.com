@@ -23,4 +23,4 @@ tienes descuento en tu sesión, te sale por
 
 Vale Regalo
 
-#### 35
+#### 35![]({{site.baseurl}}/image/val_regal.jpg)
