@@ -4,7 +4,7 @@ description: "Preus de les sessions de Shiatsu a Gracia; bono 3 sessions, primer
 menu: true
 permalink: preus/
 sibling: preus
-published: false
+published: true
 ---
 
 
