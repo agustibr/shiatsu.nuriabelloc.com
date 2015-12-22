@@ -9,19 +9,29 @@ published: true
 
 
 
-Precio sesión
+
+Primera sesión
 
 ### 35
 
 ---
 
-Si traes a un amigo o amiga a hacerse Shiatsu
-tienes descuento en tu sesión, te sale por
+Precio sesión
 
-#### 30
+#### 40
+
+---
+
+Bono 3 sesiones
+
+#### 105
+
+(descuento también para sesiones continuadas)
 
 ---
 
 Vale Regalo
 
 #### 35
+![val_regal_web.png]({{site.baseurl}}/image/val_regal_web.png)
+
