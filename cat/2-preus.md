@@ -9,6 +9,7 @@ published: true
 
 
 
+
 Primera sessió
 
 ### 35
@@ -21,15 +22,20 @@ Preu sessió
 
 ---
 
+Descompte en les sesions continuades
+
+### 35
+
+---
+
 Bono 3 sessions
 
 #### 105
 
-_(a les sessions continuades també s'aplicará descompte)_
 ---
 
 Val Regal
 
-#### 35
+### 35
 
 ![]({{site.baseurl}}/image/val_regal_web.png)
