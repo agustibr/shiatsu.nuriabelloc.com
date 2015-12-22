@@ -8,21 +8,28 @@ published: true
 ---
 
 
-Preu sessió
+
+Primera sessió
 
 ### 35
 
 ---
 
-Si portes un amic o amiga a fer-se un shiatsu
-tens descompte en la teva sessió, et surt per
+Preu sessió
 
-#### 30
+#### 40
 
 ---
 
-Val regal
+Bono 3 sessions
+
+#### 105
+
+_(a les sessions continuades també s'aplicará descompte)_
+---
+
+Val Regal
 
 #### 35
 
-
+![]({{site.baseurl}}/image/val_regal_web.png)
