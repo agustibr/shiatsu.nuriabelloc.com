@@ -15,7 +15,7 @@ Sóc llicenciada en Belles Arts amb l'especialitat d'escultura i titulada en [Sh
 
 Amb el Shiatsu he trobat la manera d'integrar la creativitat amb la salut i la qualitat de relació entre persones.
 
-He complementat la meva formació com a terapeuta amb l'estudi del _Kiyindo Shiatsu_ (Pierre Clavreux), el seminari _Thai massage meets Ostheopathy_ (David Lutt i Karine Alayna) i _Entrenament per a Terapeutes_ (Emili Pulido i Cristina Hernando). Continuo formant-me en el Postgrau _Contacte Viu_ (Cristina Hernando)
+He complementat la meva formació com a terapeuta amb l'estudi del _Kiyindo Shiatsu_ (Pierre Clavreux), el seminari _Thai massage meets Ostheopathy_ (David Lutt i Karine Alayna) _Entrenament per a Terapeutes_ (Emili Pulido i Cristina Hernando), i el Postgrau _Contacte Viu_ (Cristina Hernando)
 
 Actualment m'estic formant com a acupuntora amb els estudis: **Bases de la MTCH per a professionals de la Salut**, European School of Acupunture (Josep Carrion) i el master de **[KIIKO MATSUMOTO ACUPUNCTURE](http://www.kiikomatsumoto.com/)** impartit per Andy Harrop, titulació amb Certificació Europea.
 
