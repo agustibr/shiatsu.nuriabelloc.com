@@ -22,16 +22,21 @@ Precio sesión
 
 ---
 
+Descuento en las sesiones continuadas
+
+### 35
+
+---
+
 Bono 3 sesiones
 
 #### 105
-
-(descuento también para sesiones continuadas)
 
 ---
 
 Vale Regalo
 
-#### 35
+### 35
+
 ![val_regal_web.png]({{site.baseurl}}/image/val_regal_web.png)
 
