@@ -3,7 +3,7 @@ title: Cursos
 menu: true
 permalink: es/cursos/
 sibling: cursos
-carousel: ['cursos-01-shiatsu-nuria-belloc.jpg','cursos-02-shiatsu-nuria-belloc.jpg','cursos-03-shiatsu-nuria-belloc.jpg']
+carousel: ['cursos-01-shiatsu-nuria-belloc.jpg','cursos-02-shiatsu-nuria-belloc.jpg','cursos-03-shiatsu-nuria-belloc.jpg','cursos-01-shiatsu-nuria-belloc.jpg','cursos-02-shiatsu-nuria-belloc.jpg','cursos-03-shiatsu-nuria-belloc.jpg']
 order: 5
 ---
 
