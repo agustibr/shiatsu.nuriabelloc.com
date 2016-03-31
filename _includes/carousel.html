@@ -1,0 +1,7 @@
+<section class="row banner">
+  <div class="marquee">
+    {% for img in include.imgs %}
+      <img src="{{site.baseurl | prepend: site.url}}/image/{{img}}" alt="{{page.title}}, {{site.description_short}}" />
+    {% endfor %}
+  </div>
+</section>

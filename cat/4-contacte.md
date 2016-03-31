@@ -4,6 +4,7 @@ description: "Concerta una sessió de Shiatsu amb la Núria Belloc Rocasalbas. T
 menu: true
 permalink: contacte/
 sibling: contact
+order: 4
 ---
 
 # Núria Belloc Rocasalbas

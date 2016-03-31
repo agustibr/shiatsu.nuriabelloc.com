@@ -5,6 +5,7 @@ menu: true
 permalink: es/precios/
 sibling: preus
 published: true
+order: 2
 ---
 
 
@@ -38,5 +39,5 @@ Vale Regalo
 
 ### 35
 
-![val_regal_web.png]({{site.baseurl}}/image/val_regal_web.png)
+![vale regalo shiatsu]({{site.baseurl}}/image/val_regal_web.png)
 

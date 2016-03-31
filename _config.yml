@@ -20,7 +20,7 @@ timezone: Europe/Amsterdam
 date: 2015-04-23 00:00:00 # for pages in feed.xml
 # Build settings
 markdown: kramdown
-layouts: _layouts
+layouts_dir: _layouts
 includes: _includes
 exclude: [Gemfile, Gemfile.lock, Guardfile, todo.md]
 gems:

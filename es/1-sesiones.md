@@ -8,14 +8,10 @@ shiatsuCarousel: ['sessio-shiatsu-nuriabelloc-01.jpg','sessio-shiatsu-nuriabello
 espaiCarousel: ['logo-nuriabelloc-shiatsu.jpg','espai-nuriabelloc-01.jpg','espai-nuriabelloc-02.jpg','espai-nuriabelloc-03.jpg','espai-nuriabelloc-04.jpg','espai-nuriabelloc-05.jpg']
 redirect_from:
   - es/sesiones/
+order: 1
 ---
-<section class="row banner">
-  <div class="marquee">
-    {% for img in page.shiatsuCarousel %}
-      <img src="{{site.baseurl | prepend: site.url}}/image/{{img}}" alt="{{page.title}}, {{site.description_short}}" />
-    {% endfor %}
-  </div>
-</section>
+
+{% include carousel.html imgs=page.shiatsuCarousel %}
 
 El Shiatsu es una terapia manual de origen japonés que se fundamenta en la antigua filosofía y medicina tradicional china. Se basa en la aplicación de presión sobre los meridianos y puntos, así com también, mediante estiramentos y movilizaciones.
 
@@ -31,10 +27,4 @@ Son sesiones personalizadas y únicas, en las que el aprendizaje y el feedback s
 
 ## El espacio
 
-<section class="row banner">
-  <div class="marquee">
-    {% for img in page.espaiCarousel %}
-      <img src="{{site.baseurl | prepend: site.url}}/image/{{img}}" alt="{{page.title}}, {{site.description_short}}" />
-    {% endfor %}
-  </div>
-</section>
+{% include carousel.html imgs=page.espaiCarousel %}

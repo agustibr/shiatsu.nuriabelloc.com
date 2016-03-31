@@ -3,6 +3,7 @@ title: Links
 menu: true
 permalink: es/links/
 sibling: links
+order: 6
 ---
 
 APSE
@@ -39,5 +40,5 @@ textos
 fotografías
 : Clàudia Serrahima Urgell
 
-diseño i programación web
-: [Agustí B.R.](http://agusti.cat)
+diseño y programación web
+: [Agustí B.R.](http://www.agusti.cat)

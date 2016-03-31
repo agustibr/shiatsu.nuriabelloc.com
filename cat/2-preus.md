@@ -5,6 +5,7 @@ menu: true
 permalink: preus/
 sibling: preus
 published: true
+order: 2
 ---
 
 
@@ -38,4 +39,4 @@ Val Regal
 
 ### 35
 
-![]({{site.baseurl}}/image/val_regal_web.png)
+![val regal shiatsu]({{site.baseurl}}/image/val_regal_web.png)

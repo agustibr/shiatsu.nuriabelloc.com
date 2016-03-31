@@ -1,4 +1,4 @@
-{% assign pages_list = site.pages | where:"lang", page.lang | where:"menu", true %}
+{% assign pages_list = site.pages | where:"lang", page.lang | where:"menu", true | sort: 'order'%}
 <nav class="navbar navbar-fixed-bottom navbar-footer-links">
   <div class="container">
     <div class="navbar-header">
