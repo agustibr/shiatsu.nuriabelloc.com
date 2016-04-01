@@ -47,6 +47,7 @@ Aquest estil es defineix per la palpació, la capacitat d'obtenir informació a 
 
 > **En les sessions faig ús dels Imants per a tractar en profunditat els desequilibris estructurals i constitucionals de cada pacient per a una curació més completa i duradora.**
 
+
 > _la durada de les sessions és entre 50 i 60 minuts_
 
 > _cal portar roba còmode_
