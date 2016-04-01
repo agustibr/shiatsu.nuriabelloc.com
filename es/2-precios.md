@@ -4,7 +4,7 @@ description: "Precios de las sesiones de Shiatsu en Gracia; bono 3 sesiones, pri
 menu: true
 permalink: es/precios/
 sibling: preus
-published: false
+published: true
 order: 2
 ---
 
