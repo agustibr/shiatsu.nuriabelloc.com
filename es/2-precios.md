@@ -10,6 +10,7 @@ order: 2
 
 
 
+
 Precio sesión
 
 #### 40
@@ -24,6 +25,5 @@ Precio sesión
 
 si quieres regalar una sesión...Vale Regalo
 
-### 35
+![val_regal_1.jpg]({{site.baseurl}}/image/val_regal_1.jpg)
 
-![vale regalo shiatsu]({{site.baseurl}}/image/val_regal_web.png)
