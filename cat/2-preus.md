@@ -18,7 +18,7 @@ Preu sessió
 
 ---
 
-**> Descompte en tractaments i bonos**
+> ** Descompte en tractaments i bonos**
 
 ### 35
 
