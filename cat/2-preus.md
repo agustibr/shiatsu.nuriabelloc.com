@@ -13,6 +13,7 @@ order: 2
 
 
 
+
 Preu sessió
 
 #### 40
@@ -28,6 +29,5 @@ Preu sessió
 Si vols regalar una sessió...
 Val Regal
 
-### 35
+![val_regal_1.jpg]({{site.baseurl}}/image/val_regal_1.jpg)
 
-![val regal shiatsu]({{site.baseurl}}/image/val_regal_web.png)
