@@ -22,12 +22,11 @@ Preu sessió
 
 > **  DESCOMPTE EN TRACTAMENTS I BONOS**
 
-[### 35]()
+> **### 35**
 
 ---
 
-Si vols regalar una sessió...
-Val Regal
+Si vols regalar una sessió...Val Regal
 
 ![val_regal_1.jpg]({{site.baseurl}}/image/val_regal_1.jpg)
 
