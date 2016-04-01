@@ -11,11 +11,6 @@ order: 2
 
 
 
-Primera sessió
-
-### 35
-
----
 
 Preu sessió
 
@@ -23,18 +18,13 @@ Preu sessió
 
 ---
 
-Descompte en les sesions continuades
+Descompte en tractaments i bonos
 
 ### 35
 
 ---
 
-Bono 3 sessions
-
-#### 105
-
----
-
+Si vols regalar una sessió...
 Val Regal
 
 ### 35
