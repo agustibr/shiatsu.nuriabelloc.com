@@ -19,11 +19,11 @@ Precio sesión
 
 > **DESCUENTO EN TRATAMIENTOS Y BONOS**
 
-> **### 35**
+### 35
 
 ---
 
 si quieres regalar una sesión...Vale Regalo
 
-![val_regal_1.jpg]({{site.baseurl}}/image/val_regal_1.jpg)
+![vale regalo shiatsu]({{site.baseurl}}/image/val_regal_1.jpg)
 

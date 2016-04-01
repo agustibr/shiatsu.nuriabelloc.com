@@ -11,7 +11,7 @@ address: "c/Sors nº 10, baixos 1ª (interior). Gràcia, Barcelona"
 tel: (+34) 651 862 122
 
 permalink: pretty
-url: http://shiatsu.nuriabelloc.com
+# url: http://shiatsu.nuriabelloc.com
 # sslurl: https://shiatsu.nuriabelloc.com
 baseurl: '' # '/f3'
 cdn: 'https://googledrive.com/host/0Bxwn2g3WSTbRfk1DVGpwbEl4dFA3ajFiTGFyZlA0WklGY3Izc0YtSHhVYncyVk01SzBibjQ'
@@ -71,6 +71,13 @@ prose:
           label: "vols que aparegui al menú de la web?"
           help: "si està clickat apareixerà al menú"
           value: boolean
+      - name: "order"
+        field:
+          element: "number"
+          label: "Ordre de la pàgina al menú"
+          help: "Introdueix un número"
+          placeholder: ""
+          type: number
       - name: "description"
         field:
           element: "text"
