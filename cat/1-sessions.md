@@ -39,13 +39,13 @@ Combino l'essència del shiatsu amb el treball corporal, l’estudi del moviment
 
 Son sessions personalitzades en les que l’aprenentatge i el feedback són elements imprescindibles. La comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats. El shiatsu proporciona un ventall d’eines corporals que permeten un ritme respectuós i a la mesura de cadascú.
 
-**Aplicació d'imans en punts acupunturals a l'estil de Kiiko Matsumoto**
+> **APLICACIÓ D'IMANTS EN PUNTS ACUPUNTURALS A L'ESTIL DE [KIIKO MATSUMOTO](http://www.kiikomatsumoto.com/)**
 
 L'ús d'imants és una tècnica no invasiva que em permet combinar el treball corporal del shiatsu amb la saviesa i efectivitat de l'estil clínic de _Kiiko Matsumoto_ (acupuntora japonesa), la qual combina els principis mèdics clàssics xinesos amb la fisiopatologia moderna d'occident.
 
 Aquest estil es defineix per la palpació, la capacitat d'obtenir informació a través del tacte. És un mètode en el qual el diagnòstic i el tractament es realitza de forma circular, podent comprovar l'eficàcia del tractament a l'instant.
 
-**En les sessions faig ús dels Imants per a tractar en profunditat els desequilibris estructurals i constitucionals de cada pacient per a una curació més completa i duradora.**
+> **En les sessions faig ús dels Imants per a tractar en profunditat els desequilibris estructurals i constitucionals de cada pacient per a una curació més completa i duradora.**
 
 > _la durada de les sessions és entre 50 i 60 minuts_
 
