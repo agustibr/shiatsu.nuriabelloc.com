@@ -12,6 +12,7 @@ order: 2
 
 
 
+
 Preu sessió
 
 #### 40
@@ -20,7 +21,7 @@ Preu sessió
 
 > **  DESCOMPTE EN TRACTAMENTS I BONOS**
 
-### 35
+[### 35]()
 
 ---
 
