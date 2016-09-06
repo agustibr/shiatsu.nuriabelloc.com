@@ -30,11 +30,11 @@ published: true
 
 > **ACUPUNTURA AL ESTILO DE [KIIKO MATSUMOTO](http://www.kiikomatsumoto.com/)**
 
-El estilo clínico de _Kiiko Matsumoto_ (acupuntora japonesa), combina los principios medicos clasicos chinos con la fisiopatologia moderna de occidente. Este estilo se define por la palpación (shiatsu), la capacitat d'obtenir informació a través del tacte. És un metodo en el cual el diagnostico y el tractamiento se realiza de forma circular, pudiendo comprobar la eficacia del tratamient al momento.
+Estilo clínico de _Kiiko Matsumoto_ (acupuntora japonesa) combina los principios médicos clásicos chinos con la fisiopatología moderna de occidente. Este estilo se caracteriza por la palpación durante el tratamiento, la capacidad e obtener información a través del tacto. Es un método en el cual el diagnostico y el tratamiento se realiza de forma circular, pudiendo comprobar la eficacia del tratamiento al momento.
 
 > _la primera sessión es de de 1h 30min_
 
-> _los tractamientos continuados son de 1h_
+> _los tratamientos continuados son de 1h_
 
 {% include carousel.html imgs=page.shiatsuCarousel %}
 
