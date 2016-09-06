@@ -16,9 +16,8 @@ order: 2
 
 
 > **1ª SESSIÓ / SESSIONS PUNTUALS**
-Preu 1ª Sessió i Sessions Puntuals
 
-#### 40
+### 40
 
 ---
 
