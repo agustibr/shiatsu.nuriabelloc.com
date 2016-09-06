@@ -28,8 +28,17 @@ order: 1
 published: true
 ---
 
+> **ACUPUNTURA AL ESTILO DE [KIIKO MATSUMOTO](http://www.kiikomatsumoto.com/)**
+
+El estilo clínico de _Kiiko Matsumoto_ (acupuntora japonesa), combina los principios medicos clasicos chinos con la fisiopatologia moderna de occidente. Este estilo se define por la palpación (shiatsu), la capacitat d'obtenir informació a través del tacte. És un metodo en el cual el diagnostico y el tractamiento se realiza de forma circular, pudiendo comprobar la eficacia del tratamient al momento.
+
+> _la primera sessión es de de 1h 30min_
+
+> _los tractamientos continuados son de 1h_
 
 {% include carousel.html imgs=page.shiatsuCarousel %}
+
+> **SHIATSU**
 
 El Shiatsu es una terapia manual de origen japonés que se fundamenta en la antigua filosofía y medicina clásica china. Se basa en la aplicación de presión sobre los meridianos y puntos, así com también, mediante estiramentos y movilizaciones.
 
@@ -39,15 +48,7 @@ Combino la esencia del shiatsu con el trabajo corporal, el estudio del movimento
 
 Son sesiones personalizadas en las que el aprendizaje y el feedback son elementos imprescindibles. La comprensión sensitiva del motivo de trabajo corporal ayuda a que el sistema nervioso reorganice incluso los hábitos más arraigados. El shiatsu proporciona un abanico de herramientas corporales que permiten un ritmo respetuoso y a la medida de cada persona.
 
-> **APLICACIÓN DE IMANES EN PUNTOS ACUPUNTURALES AL ESTILO DE [KIIKO MATSUMOTO](http://www.kiikomatsumoto.com/)**
-
-El uso de los imanes es una técnica no invasiva que me permite combinar el trabajo corporal del shiatsu con la sabiduría y efectividad del estilo clínico de Kiiko Matsumoto (acupuntora), la cual combina los principios médicos clásicos chinos con la fisiopatología moderna de occidente.
-
-Este estilo se define por la palpación, la capacidad de obtener información a través del tacto. Es un método en el cual el diagnóstico y el tratamiento se realiza de forma circular, pudiendose comprobar la eficacia del tratamiento al instante.
-
-> **Con el uso de los Imanes trato en profundidad los desequilibrios estructurales y constitucionales de cada paciente para una curación más completa y duradera.**
-
-> _la duración de las sesiones es entre 50 i 60 minutos_
+> _la duración de las sesiones de shiatsu es entre 50 y 60 minutos_
 
 > _traer ropa cómoda_
 
