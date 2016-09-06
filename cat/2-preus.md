@@ -15,7 +15,7 @@ order: 2
 
 
 
-> **1ª SESSIÓ / SESSIONS PUNTUALS**
+> **1ª SESSIÓ - SESSIONS PUNTUALS**
 
 ### 40
 
