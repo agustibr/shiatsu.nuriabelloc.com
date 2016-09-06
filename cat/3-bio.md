@@ -9,8 +9,7 @@ order: 3
 ---
 
 
-
-![Foto Núria Belloc]({{site.baseurl}}/image/WEBretrat.jpg)
+![Foto Núria Belloc]({{site.baseurl}}/image/WEBretratbaixaresol.jpg)
 
 Sóc llicenciada en Belles Arts amb l'especialitat d'escultura, [Acupuntora a l'estil de Kiiko Matsumoto](http://www.kiikomatsumoto.com/) i terapeuta de [Shiatsu i Moviment](http://www.shiatsu-movimiento.com).
 
