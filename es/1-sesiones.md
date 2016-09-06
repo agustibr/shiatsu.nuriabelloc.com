@@ -1,28 +1,28 @@
 ---
-title: Sesiones de Shiatsu
-description: "Sesiones de Shiatsu en Gracia, Barcelona."
+title: Tratamientos
+description: 'Sesiones de Shiatsu en Gracia, Barcelona.'
 menu: true
 permalink: es/
 sibling: sessions
-shiatsuCarousel: 
-  - "sessio-shiatsu-nuriabelloc-01.jpg"
-  - "sessio-shiatsu-nuriabelloc-02.jpg"
-  - "sessio-shiatsu-nuriabelloc-03.jpg"
-  - "sessio-shiatsu-nuriabelloc-04.jpg"
-  - "sessio-shiatsu-nuriabelloc-05.jpg"
-  - "sessio-shiatsu-nuriabelloc-06.jpg"
-  - "sessio-shiatsu-nuriabelloc-07.jpg"
-  - "sessio-shiatsu-nuriabelloc-08.jpg"
-  - "sessio-shiatsu-nuriabelloc-09.jpg"
-  - "sessio-shiatsu-nuriabelloc-10.jpg"
-espaiCarousel: 
-  - "logo-nuriabelloc-shiatsu.jpg"
-  - "espai-nuriabelloc-01.jpg"
-  - "espai-nuriabelloc-02.jpg"
-  - "espai-nuriabelloc-03.jpg"
-  - "espai-nuriabelloc-04.jpg"
-  - "espai-nuriabelloc-05.jpg"
-redirect_from: 
+shiatsuCarousel:
+  - sessio-shiatsu-nuriabelloc-01.jpg
+  - sessio-shiatsu-nuriabelloc-02.jpg
+  - sessio-shiatsu-nuriabelloc-03.jpg
+  - sessio-shiatsu-nuriabelloc-04.jpg
+  - sessio-shiatsu-nuriabelloc-05.jpg
+  - sessio-shiatsu-nuriabelloc-06.jpg
+  - sessio-shiatsu-nuriabelloc-07.jpg
+  - sessio-shiatsu-nuriabelloc-08.jpg
+  - sessio-shiatsu-nuriabelloc-09.jpg
+  - sessio-shiatsu-nuriabelloc-10.jpg
+espaiCarousel:
+  - logo-nuriabelloc-shiatsu.jpg
+  - espai-nuriabelloc-01.jpg
+  - espai-nuriabelloc-02.jpg
+  - espai-nuriabelloc-03.jpg
+  - espai-nuriabelloc-04.jpg
+  - espai-nuriabelloc-05.jpg
+redirect_from:
   - es/sesiones/
 order: 1
 published: true
