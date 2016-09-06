@@ -1,6 +1,8 @@
 ---
 title: Preus
-description: "Preus de les sessions de Shiatsu a Gracia; bono 3 sessions, primera sessió i sessió puntual de shiatsu a Barcelona."
+description: >-
+  Preus de les sessions de Shiatsu a Gracia; bono 3 sessions, primera sessió i
+  sessió puntual de shiatsu a Barcelona.
 menu: true
 permalink: preus/
 sibling: preus
@@ -14,7 +16,7 @@ order: 2
 
 
 
-Preu sessió
+Preu 1ª Sessió i Sessions Puntuals
 
 #### 40
 
@@ -26,7 +28,3 @@ Preu sessió
 
 ---
 
-Si vols regalar una sessió...Val Regal
-
-
-![val regal shiatsu]({{site.baseurl}}/image/val_regal_1.jpg)
