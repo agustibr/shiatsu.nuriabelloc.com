@@ -1,6 +1,6 @@
 ---
 title: Biografia
-description: "Núria Belloc Rocasalbas, Terapeuta de Shiatsu."
+description: 'Núria Belloc Rocasalbas, Terapeuta de Shiatsu.'
 menu: true
 permalink: bio/
 sibling: bio
@@ -10,23 +10,22 @@ order: 3
 
 
 
+![Foto Núria Belloc]({{site.baseurl}}/image/fotoweb.jpg)
 
-![Foto Núria Belloc]({{site.baseurl}}/image/nuria-belloc.jpg)
+Sóc llicenciada en Belles Arts amb l'especialitat d'escultura, [Acupuntora a l'estil de Kiiko Matsumoto](http://www.kiikomatsumoto.com/) i terapeuta de [Shiatsu i Moviment](http://www.shiatsu-movimiento.com).
 
-Sóc llicenciada en Belles Arts amb l'especialitat d'escultura i titulada en [Shiatsu i Moviment](http://www.shiatsu-movimiento.com).
+En la meva manera de fer els tractaments, miro d'integrar la creativitat amb la salut i la qualitat de relació entre persones.
 
-Amb el Shiatsu he trobat la manera d'integrar la creativitat amb la salut i la qualitat de relació entre persones.
+He complementat la meva formació de terapeuta de Shiatsu i Moviment amb l'estudi del _Kiyindo Shiatsu_ (Pierre Clavreux), el seminari _Thai massage meets Ostheopathy_ (David Lutt i Karine Alayna) _Entrenament per a Terapeutes_ (Emili Pulido i Cristina Hernando),el Postgrau _Contacte Viu_ (Cristina Hernando)
 
-He complementat la meva formació com a terapeuta amb l'estudi del _Kiyindo Shiatsu_ (Pierre Clavreux), el seminari _Thai massage meets Ostheopathy_ (David Lutt i Karine Alayna) _Entrenament per a Terapeutes_ (Emili Pulido i Cristina Hernando), i el Postgrau _Contacte Viu_ (Cristina Hernando)
+He realitzat els estudis d'Acupuntura: Bases de la MTCH per a professionals de la Salut, European School of Acupuncture i el master de **[KIIKO MATSUMOTO ACUPUNCTURE](http://www.kiikomatsumoto.com/)** impartit per Andy Harrop.
 
-Actualment m'estic formant com a acupuntora amb els estudis: **Bases de la MTCH per a professionals de la Salut**, European School of Acupunture (Josep Carrión) i el master de **[KIIKO MATSUMOTO ACUPUNCTURE](http://www.kiikomatsumoto.com/)** impartit per Andy Harrop, titulació amb Certificació Europea.
+He treballat com a Terapeuta als centres: _Ingravitt_ (Les Franqueses del Vallès), _Sattva_ (Gràcia), _Sincronia_ (Gràcia), al _Centre de Recuperació Integral i Osteopatia Crios]_, i a _Equilit_. He impartit diversos tallers d'iniciació de Shiatsu a _nunArt Gràcia_ i col·laborat en ensenyament al curs de Shiatsu de l’_Institut Wu Shu_.
 
-He treballat com a Terapeuta als centres: _Ingravitt_ (Les Franqueses del Vallès), _Sattva_ (Gràcia), _Sincronia_ (Gràcia) i al _[Centre de Recuperació Integral i Osteopatia Crios][crios]_. He col·laborat en ensenyament al curs de Shiatsu de l’_[Institut Wu Shu][wushu]_.
+Actualment, exerceixo com a Acupuntora i Terapeuta de Shiatsu a l'equip de Traumatologia [CO+T Remei](https://cotbarcelona.wordpress.com/) i a la meva pròpia consulta (Gràcia).
 
-Actualment, exerceixo com a Terapeuta de Shiatsu a la meva pròpia consulta (Gràcia) i a l'empresa _[Equilit][equilit]_.
 
-El proper 13 de febrer del 2016 impartiré un taller de shiatsu a [_nunArt Gràcia_](http://www.nunartbcn.com/recinte/gracia/ "nunArt"), per més informació i inscripcions podeu escriure a [{{site.email}}](mailto:{{site.email}}).
+[Shiatsu i Moviment]: http://www.shiatsu-movimiento.com
+[KIIKO MATSUMOTO ACUPUNCTURE]: http://www.kiikomatsumoto.com
+[CO+T Remei]: https://cotbarcelona.wordpress.com
 
-[crios]: http://www.criosgracia.com
-[wushu]: http://www.institutodewushu.com
-[equilit]: http://equilit.com/
