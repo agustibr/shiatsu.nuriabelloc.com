@@ -50,7 +50,8 @@ Son sessions personalitzades en les que l’aprenentatge i el feedback són elem
 
 L'estil clínic de _Kiiko Matsumoto_ (acupuntora japonesa), combina els principis mèdics clàssics xinesos amb la fisiopatologia moderna d'occident. Aquest estil es defineix per la palpació (shiatsu), la capacitat d'obtenir informació a través del tacte. És un mètode en el qual el diagnòstic i el tractament es realitza de forma circular, podent comprovar l'eficàcia del tractament a l'instant.
 
-![acupuntura]({{site.baseurl}}/image/13835670_925394357589387_2086526750_o.jpg)![13835670_925394357589387_2086526750_o.jpg]({{site.baseurl}}/image/13835670_925394357589387_2086526750_o.jpg)
+![13835670_925394357589387_2086526750_o.jpg]({{site.baseurl}}/image/13835670_925394357589387_2086526750_o.jpg)
+
 
 > _la primera sessió te una durada de 1h 30min_
 
