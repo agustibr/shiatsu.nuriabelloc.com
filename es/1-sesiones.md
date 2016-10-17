@@ -59,7 +59,14 @@ Para optimizar el tratamiento, sera necesario un feedback en el cual valoraremos
 La acupuntura japonesa se caracteriza por la sutileza, se emplean agujas muy finas, realizando un tratamiento distal, liberando las areas afectadas antes de tratarlas directamente.
 
 Permite tratar lesiones, cicatrices, estructural, sistema nervioso, constitucional, sistema inmune, digestivo, del descanso, detox...
+
 ![acu.jpg]({{site.baseurl}}/image/acu.jpg)
+
+
+> _la primera sesión 1h 30min_
+
+> _tratamiento 50 i 60 minuts_
+
 
 
 ## El espacio
