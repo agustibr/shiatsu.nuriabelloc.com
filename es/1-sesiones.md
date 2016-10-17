@@ -54,11 +54,11 @@ La acupuntura que realizo sigue la misma líea que las sesiones de shiatsu, teng
 
 Durante el tratamiento tomaremos como referencia principal los reflejos de dolor o molestia que aparecen en el àrea de diagnostico; tanto puede ser en las areas de reflejo en el "hara" (vientre), como en areas secundarias. Por ejemplo, si se trata de un problema respiratorio, tomaremos como referencia las areas reflejas del pulmón, la relación con el resto del organismo y los cambios que se producen al coger o soltar el aire.
 
-Para optimizar el tratamiento, serà necesario un feedback en el cual valoraremos las mejoras del àrea diagnosticada, y comprobaremos cuales son los puntos más efectivos, de manera que el diagnóstico y el tratamiento se realizará de forma circular.
+Para optimizar el tratamiento, sera necesario un feedback en el cual valoraremos las mejoras del area diagnosticada, y comprobaremos cuales son los puntos más efectivos, de manera que el diagnóstico y el tratamiento se realizará de forma circular.
 
 La acupuntura japonesa se caracteriza por la sutileza, se emplean agujas muy finas, realizando un tratamiento distal, liberando las areas afectadas antes de tratarlas directamente.
 
-Permite tratar lesiones, cura de cicatrices, estructural, sistema nervioso, constitucional, sistema inmune, digestivo, del descanso, detox...
+Permite tratar lesiones, cicatrices, estructural, sistema nervioso, constitucional, sistema inmune, digestivo, del descanso, detox...
 ![acu.jpg]({{site.baseurl}}/image/acu.jpg)
 
 
