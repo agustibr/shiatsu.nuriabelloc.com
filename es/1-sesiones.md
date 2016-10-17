@@ -52,7 +52,7 @@ Son sesiones personalizadas en las que el aprendizaje y el feedback son elemento
 
 La acupuntura que realizo sigue la misma líea que las sesiones de shiatsu, tengo en cuenta los tres ejes que configuran una persona (a nivel físico, intelectual y emocional) con la diferencia que el enfoque del tratamiento es más clínico.
 
-Durante el tratamiento tomaremos como referencia principal los reflejos de dolor o molestia que aparecen en el àrea de diagnostico; tanto puede ser en las areas de reflejo en el "hara" (vientre), como en areas secundarias. Por ejemplo, si se trata de un problema respiratorio, tomaremos como referencia las areas reflejas del pulmón, la relación con el resto del organismo y los cambios que se producen al coger o soltar el aire.
+Durante el tratamiento tomaremos como referencia principal los reflejos de dolor o molestia que aparecen en el àrea de diagnostico; tanto puede ser en las areas de reflejo en el "hara" (vientre), como en areas secundarias. Por ejemplo, si se trata de un problema respiratorio, tomaremos como referencia las areas reflejas del pulmón y la relación con el resto del organismo, así como también, los cambios que se producen al coger o soltar el aire.
 
 Para optimizar el tratamiento, sera necesario un feedback en el cual valoraremos las mejoras del area diagnosticada, y comprobaremos cuales son los puntos más efectivos, de manera que el diagnóstico y el tratamiento se realizará de forma circular.
 
