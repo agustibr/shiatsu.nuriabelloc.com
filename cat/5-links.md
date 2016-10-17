@@ -4,6 +4,7 @@ menu: true
 permalink: links/
 sibling: links
 order: 6
+published: true
 ---
 
 APSE
@@ -35,7 +36,7 @@ Andy Harrop
 ### Crédits
 
 textos
-: [Núria Belloc](http://nuriabelloc.com)
+: [Núria Belloc Rocasalbas](http://nuriabelloc.com)
 
 fotografías
 : Clàudia Serrahima Urgell
