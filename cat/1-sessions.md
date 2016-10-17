@@ -48,13 +48,16 @@ Son sessions personalitzades en les que l’aprenentatge i el feedback són elem
 
 > **ACUPUNTURA A L'ESTIL DE [KIIKO MATSUMOTO](http://www.kiikomatsumoto.com/)**
 
-L'acupuntura que realitzo segueix la mateixa línea que les sessions de shiatsu, amb la diferència que l'enfoc és més clínic. 
+L'acupuntura que realitzo segueix la mateixa línea que les sessions de shiatsu, en les sessions sempre tinc en compte els tres eixos que configuren una persona (a nivell físic, intelectual i emocional) amb la diferència que l'enfoc del tractament és més clínic.
 
-Durant el tractament pendrem com a referència principal els reflexes de dolor que apareixen a l'area de diagnòstic. Per tal d'optimitzar el tractament, caldrà un feedback en el qual valorarem les millores de l'àrea diagnosticada, comprovarem quins són els punts més efectius. És a dir, el diagnòstic i el tractament es realitza de forma circular, i requereix d'un diàleg amb el pacient per tal de comprovar i optimitzar l'eficàcia del tractament.
+Durant el tractament pendrem com a referència principal els reflexes de dolor o molèstia que apareixen a l'area de diagnòstic (tant pot ser una lesió com a les arees de reflexe al "hara", ventre, o arees secundàries). 
 
-L'acupuntura japonesa es caracteritza per la subtilesa, doncs s'utilitzen agulles molt fines i el tractament sempre és distal, mai en el lloc on hi ha dolor.
+Per tal d'optimitzar el tractament, caldrà un feedback en el qual valorarem les millores a l'àrea diagnosticada, comprovarem quins són els punts més efectius, de manera que el diagnòstic i el tractament es realitza de forma circular.
 
-Permet fer un tractament de lesions, cura de cicatrius, problemes estructurals, de sistema nerviós, digestiu, 
+L'acupuntura japonesa es caracteritza per la subtilesa, doncs s'utilitzen agulles molt fines, realitzant un tractament en primer lloc distal, lliberant les arees abans de tractar-les directament.
+
+Permet fer un tractament de lesions, cura de cicatrius, estructural, de sistema nerviós, constitucional, sistema inmune, digestiu, del descans, detox... 
+
 
 ![acu.jpg]({{site.baseurl}}/image/acu.jpg)
 
