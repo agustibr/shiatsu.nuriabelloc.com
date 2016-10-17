@@ -60,8 +60,6 @@ L'acupuntura japonesa es caracteritza per la subtilesa, doncs s'utilitzen agulle
 
 Permet fer un tractament de lesions, cura de cicatrius, estructural, de sistema nerviós, constitucional, sistema inmune, digestiu, del descans, detox... 
 
-Durante el tratamiento tomaremos como referencia principal los reflejos de dolor o molestia que aparecen en el àrea de diagnostico; tanto puede ser en las areas de reflejo en el "hara" (vientre), como en areas secundarias. Por ejemplo, si se trata de un problema respiratorio, tomaremos como referencia las areas reflejas del pulmón, la relación con el resto del organismo y los cambios que se producen al coger o soltar el aire.
-
 ![acu.jpg]({{site.baseurl}}/image/acu.jpg)
 
 > _la primera sessió te una durada de 1h 30min_
