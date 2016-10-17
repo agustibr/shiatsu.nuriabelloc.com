@@ -40,7 +40,7 @@ El Shiatsu és una teràpia manual d’origen japonés que es fonamenta en l'ant
 
 Combino l'essència del shiatsu amb el treball corporal, l’estudi del moviment del cos, coneixements d’anatomia i fisiologia d’occident. Amb aquesta base, genero eines per a treballar el símptoma, la causa i la dinàmica creada.
 
-Son sessions personalitzades en les que l’aprenentatge i el feedback són elements imprescindibles. La comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats. El shiatsu proporciona un ventall d’eines corporals que permeten un ritme respectuós i a la mesura de cadascú.
+Son sessions personalitzades en les que l’aprenentatge i el feedback són elements imprescindibles. La comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats. 
 
 > _les sessions de Shiatsu tenen una durada d'entre 50 i 60 minuts_
 
