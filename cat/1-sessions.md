@@ -46,7 +46,7 @@ Son sessions personalitzades en les que l’aprenentatge i el feedback són elem
 
 --------------------------------------------------------------------------------------
 
-> **ACUPUNTURA A L'ESTIL DE [KIIKO MATSUMOTO](http://www.kiikomatsumoto.com/)**
+> **ACUPUNTURA**
 
 L'acupuntura que realitzo segueix la mateixa línea que les sessions de shiatsu, tinc en compte els tres eixos que configuren una persona (a nivell físic, intelectual i emocional) amb la diferència que l'enfoc del tractament és més clínic.
 
