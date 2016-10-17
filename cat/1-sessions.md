@@ -30,6 +30,20 @@ published: true
 
 
 
+> **SHIATSU**
+
+El Shiatsu és una teràpia manual d’origen japonés que es fonamenta en l'antiga filosofia i medicina clàssica xinesa. Es basa en l'aplicació de pressió sobre els meridians i punts, així com també, mitjançant estiraments i mobilitzacions.
+
+> El Shiatsu estimula diversos sistemes de l'organisme, promovent la vitalitat i potenciant la capacitat d'autocuració.
+
+{% include carousel.html imgs=page.shiatsuCarousel %}
+
+Combino l'essència del shiatsu amb el treball corporal, l’estudi del moviment del cos, coneixements d’anatomia i fisiologia d’occident. Amb aquesta base, genero eines per a treballar el símptoma, la causa i la dinàmica creada.
+
+Son sessions personalitzades en les que l’aprenentatge i el feedback són elements imprescindibles. La comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats. El shiatsu proporciona un ventall d’eines corporals que permeten un ritme respectuós i a la mesura de cadascú.
+
+> _les sessions de Shiatsu tenen una durada d'entre 50 i 60 minuts_
+
 > **ACUPUNTURA A L'ESTIL DE [KIIKO MATSUMOTO](http://www.kiikomatsumoto.com/)**
 
 L'estil clínic de _Kiiko Matsumoto_ (acupuntora japonesa), combina els principis mèdics clàssics xinesos amb la fisiopatologia moderna d'occident. Aquest estil es defineix per la palpació (shiatsu), la capacitat d'obtenir informació a través del tacte. És un mètode en el qual el diagnòstic i el tractament es realitza de forma circular, podent comprovar l'eficàcia del tractament a l'instant.
@@ -37,20 +51,6 @@ L'estil clínic de _Kiiko Matsumoto_ (acupuntora japonesa), combina els principi
 > _la primera sessió te una durada de 1h 30min_
 
 > _els tractaments continuats tenen una durada d'entre 50 i 60 minuts_
-
-{% include carousel.html imgs=page.shiatsuCarousel %}
-
-> **SHIATSU**
-
-El Shiatsu és una teràpia manual d’origen japonés que es fonamenta en l'antiga filosofia i medicina clàssica xinesa. Es basa en l'aplicació de pressió sobre els meridians i punts, així com també, mitjançant estiraments i mobilitzacions.
-
-> El Shiatsu estimula diversos sistemes de l'organisme, promovent la vitalitat i potenciant la capacitat d'autocuració.
-
-Combino l'essència del shiatsu amb el treball corporal, l’estudi del moviment del cos, coneixements d’anatomia i fisiologia d’occident. Amb aquesta base, genero eines per a treballar el símptoma, la causa i la dinàmica creada.
-
-Son sessions personalitzades en les que l’aprenentatge i el feedback són elements imprescindibles. La comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats. El shiatsu proporciona un ventall d’eines corporals que permeten un ritme respectuós i a la mesura de cadascú.
-
-> _les sessions de Shiatsu tenen una durada d'entre 50 i 60 minuts_
 
 
 
