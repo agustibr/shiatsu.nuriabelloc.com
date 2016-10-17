@@ -43,6 +43,7 @@ Combino l'essència del shiatsu amb el treball corporal, l’estudi del moviment
 Son sessions personalitzades en les que l’aprenentatge i el feedback són elements imprescindibles. La comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats. 
 
 > _les sessions de Shiatsu tenen una durada d'entre 50 i 60 minuts_
+> _cal portar roba comode_
 
 --------------------------------------------------------------------------------------
 
@@ -50,14 +51,16 @@ Son sessions personalitzades en les que l’aprenentatge i el feedback són elem
 
 L'acupuntura que realitzo segueix la mateixa línea que les sessions de shiatsu, tinc en compte els tres eixos que configuren una persona (a nivell físic, intelectual i emocional) amb la diferència que l'enfoc del tractament és més clínic.
 
-Durant el tractament pendrem com a referència principal els reflexes de dolor o molèstia que apareixen a l'area de diagnòstic (tant pot ser una lesió com a les arees de reflexe al "hara", ventre, o arees secundàries). 
+Durant el tractament pendrem com a referència principal els reflexes de dolor o molèstia que apareixen a l'area de diagnòstic; tant pot ser a les arees de reflexe al "hara" (ventre), com a les arees secundàries. Per exemple, si es tracta d'un problema respiratori, prendrem com a referència les arees reflexes dels pulmons, la relació amb la resta de l'organisme i els canvis que es produeixen al agafar o deixar anar l'aire.
 
-Per tal d'optimitzar el tractament, caldrà un feedback en el qual valorarem les millores a l'àrea diagnosticada, comprovarem quins són els punts més efectius, de manera que el diagnòstic i el tractament es realitza de forma circular.
+
+Per tal d'optimitzar el tractament, caldrà un feedback en el qual valorarem les millores a l'àrea diagnosticada, comprovarem quins són els punts més efectius, de manera que el diagnòstic i el tractament es realitzarà de forma circular.
 
 L'acupuntura japonesa es caracteritza per la subtilesa, doncs s'utilitzen agulles molt fines, realitzant un tractament en primer lloc distal, lliberant les arees abans de tractar-les directament.
 
 Permet fer un tractament de lesions, cura de cicatrius, estructural, de sistema nerviós, constitucional, sistema inmune, digestiu, del descans, detox... 
 
+Durante el tratamiento tomaremos como referencia principal los reflejos de dolor o molestia que aparecen en el àrea de diagnostico; tanto puede ser en las areas de reflejo en el "hara" (vientre), como en areas secundarias. Por ejemplo, si se trata de un problema respiratorio, tomaremos como referencia las areas reflejas del pulmón, la relación con el resto del organismo y los cambios que se producen al coger o soltar el aire.
 
 ![acu.jpg]({{site.baseurl}}/image/acu.jpg)
 
