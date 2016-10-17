@@ -51,8 +51,7 @@ Son sessions personalitzades en les que l’aprenentatge i el feedback són elem
 
 L'acupuntura que realitzo segueix la mateixa línea que les sessions de shiatsu, tinc en compte els tres eixos que configuren una persona (a nivell físic, intelectual i emocional) amb la diferència que l'enfoc del tractament és més clínic.
 
-Durant el tractament pendrem com a referència principal els reflexes de dolor o molèstia que apareixen a l'area de diagnòstic; tant pot ser a les arees de reflexe al "hara" (ventre), com a les arees secundàries. Per exemple, si es tracta d'un problema respiratori, prendrem com a referència les arees reflexes dels pulmons, la relació amb la resta de l'organisme i els canvis que es produeixen al agafar o deixar anar l'aire.
-
+Durant el tractament pendrem com a referència principal els reflexes de dolor o molèstia que apareixen a l'area de diagnòstic; tant pot ser a les arees de reflexe al "hara" (ventre), com a les arees secundàries. Per exemple, si es tracta d'un problema respiratori, prendrem com a referència les arees reflexes dels pulmons i la relació amb la resta de l'organisme, així com també, els canvis que es produeixen al agafar o deixar anar l'aire.
 
 Per tal d'optimitzar el tractament, caldrà un feedback en el qual valorarem les millores a l'àrea diagnosticada, comprovarem quins són els punts més efectius, de manera que el diagnòstic i el tractament es realitzarà de forma circular.
 
