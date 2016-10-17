@@ -48,7 +48,13 @@ Son sessions personalitzades en les que l’aprenentatge i el feedback són elem
 
 > **ACUPUNTURA A L'ESTIL DE [KIIKO MATSUMOTO](http://www.kiikomatsumoto.com/)**
 
-L'estil clínic de _Kiiko Matsumoto_ (acupuntora japonesa), combina els principis mèdics clàssics xinesos amb la fisiopatologia moderna d'occident. Aquest estil es defineix per la palpació (shiatsu), la capacitat d'obtenir informació a través del tacte. És un mètode en el qual el diagnòstic i el tractament es realitza de forma circular, podent comprovar l'eficàcia del tractament a l'instant.
+L'acupuntura que realitzo segueix la mateixa línea que les sessions de shiatsu, amb la diferència que l'enfoc és més clínic. 
+
+Durant el tractament pendrem com a referència principal els reflexes de dolor que apareixen a l'area de diagnòstic. Per tal d'optimitzar el tractament, caldrà un feedback en el qual valorarem les millores de l'àrea diagnosticada, comprovarem quins són els punts més efectius. És a dir, el diagnòstic i el tractament es realitza de forma circular, i requereix d'un diàleg amb el pacient per tal de comprovar i optimitzar l'eficàcia del tractament.
+
+L'acupuntura japonesa es caracteritza per la subtilesa, doncs s'utilitzen agulles molt fines i el tractament sempre és distal, mai en el lloc on hi ha dolor.
+
+Permet fer un tractament de lesions, cura de cicatrius, problemes estructurals, de sistema nerviós, digestiu, 
 
 ![acu.jpg]({{site.baseurl}}/image/acu.jpg)
 
