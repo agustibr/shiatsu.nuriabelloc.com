@@ -15,15 +15,9 @@ order: 2
 
 
 
-> **1ª SESSIÓ - SESSIONS PUNTUALS**
+> **SESSIÓ**
 
 ### 40
-
----
-
-> **DESCOMPTE EN TRACTAMENTS I BONOS**
-
-### 35
 
 ---
 
