@@ -12,14 +12,9 @@ order: 2
 
 
 
-> **1ª SESIÓN - SESIONES PUNTUALES**
+> **SESIÓN**
 
-### 40
-
----
-
-> **DESCUENTO EN TRATAMIENTOS Y BONOS**
-
-### 35
+### 40€
 
 ---
+
