@@ -23,4 +23,4 @@ Són cursos puntuals en els quals el focus principal és fomentar la creativitat
 
                         shiatsu.nbr@gmail.com o trucant al 651862122 
 
-![]({{site.baseurl}}/image/CAT_cicle_shiatsu_2017_web.jpg)
+![]({{site.baseurl}}/image/CAT_WEB_cicle_shiatsu_2017_7.jpg)
