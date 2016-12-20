@@ -1,5 +1,5 @@
 ---
-title: Tratamientos
+title: Sesiones
 description: 'Sesiones de Shiatsu en Gracia, Barcelona.'
 menu: true
 permalink: es/
