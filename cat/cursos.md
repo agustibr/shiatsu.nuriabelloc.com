@@ -20,7 +20,7 @@ Classes d'inciciació al shiatsu per aprendre a un nivell bàsic per a compartir
 Són cursos puntuals en els quals el focus principal és fomentar la creativitat en el massatge i la comprensió del llenguatge corporal. Són classes per a conèixer els principis bàsics del shiatsu aprenent la teoria a través de la pràctica.
 
 **INSCRIPCIONS OBERTES:** CICLE D'INICIACIÓ AL SHIATSU 2017 [nunArt Gràcia](http://nunartbcn.com/ca/) 
-[{{site.email}}](mailto:{{site.email}}) o trucant al {{site.tel}}
+                          [{{site.email}}](mailto:{{site.email}}) o trucant al {{site.tel}}
 
 ![Cicle d'iniciació al Shiatsu 2017]({{site.baseurl}}/image/CAT_cicle_shiatsu_2017_web.jpg)
 
