@@ -49,15 +49,13 @@ Son sessions personalitzades en les que l’aprenentatge i el feedback són elem
 
 > **ACUPUNTURA**
 
-L'acupuntura que realitzo segueix la mateixa línea que les sessions de shiatsu, tinc en compte els tres eixos que configuren una persona (a nivell físic, intelectual i emocional) amb la diferència que l'enfoc del tractament és més clínic.
+L'acupuntura que realitzo segueix la mateixa línea que les sessions de shiatsu, tenint en compte els tres eixos que configuren una persona (a nivell físic, intelectual i emocional) amb la diferència que l'enfoc del tractament és més clínic.
 
-Durant el tractament pendrem com a referència principal els reflexes de dolor o molèstia que apareixen a l'area de diagnòstic; tant pot ser a les arees de reflexe al "hara" (ventre), com a les arees secundàries. Per exemple, si es tracta d'un problema respiratori, prendrem com a referència les arees reflexes dels pulmons i la relació amb la resta de l'organisme, així com també, els canvis que es produeixen al agafar o deixar anar l'aire.
-
-Per tal d'optimitzar el tractament, caldrà un feedback en el qual valorarem les millores a l'àrea diagnosticada, comprovarem quins són els punts més efectius, de manera que el diagnòstic i el tractament es realitzarà de forma circular.
+Durant el tractament pendrem com a referència principal els reflexes de dolor o molèstia que apareixen a l'àrea de diagnòstic; per tal d'optimitzar el tractament, caldrà un feedback en el qual valorarem les millores a l'àrea diagnosticada, comprovarem quins són els punts més efectius, de manera que el diagnòstic i el tractament es realitzarà de forma circular.
 
 L'acupuntura japonesa es caracteritza per la subtilesa, doncs s'utilitzen agulles molt fines, realitzant un tractament en primer lloc distal, lliberant les arees abans de tractar-les directament.
 
-Permet fer un tractament de lesions, cura de cicatrius, estructural, de sistema nerviós, constitucional, sistema inmune, digestiu, del descans, detox... 
+**lesions, cura de cicatrius, estructural, de sistema nerviós, constitucional, sistema inmune, digestiu, del descans, detox...**
 
 ![acu.jpg]({{site.baseurl}}/image/acu.jpg)
 
