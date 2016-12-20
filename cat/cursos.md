@@ -21,7 +21,7 @@ Són cursos puntuals en els quals el focus principal és fomentar la creativitat
 
 **INSCRIPCIONS OBERTES:** C I C L E    D ' I N I C I A CI Ó   A L   S H I A T S U   2 0 1 7 [nunArt Gràcia](http://nunartbcn.com/ca/)
 
-                        [{{site.email}}](mailto:{{site.email}}) o trucant al {{site.tel}}
+                        [shiatsu.nbr@gmail.com](www.gmail.com) o trucant al 651862122 
 
 ![]({{site.baseurl}}/image/CAT_cicle_shiatsu_2017_web.jpg)
 
