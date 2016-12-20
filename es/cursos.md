@@ -22,5 +22,4 @@ Clases de inciciación al shiatsu para aprender a un nivel básico y compartir c
 
                         shiatsu.nbr@gmail.com o llama al 651862122 
 
-![]({{site.baseurl}}/image/CAST_WEB_ciclo_shiatsu_2017_.jpg)
-
+![]({{site.baseurl}}/image/CAST_WEB_ciclo_shiatsu_2017_7.jpg)
