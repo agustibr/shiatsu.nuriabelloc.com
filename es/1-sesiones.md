@@ -50,7 +50,7 @@ Son sesiones personalizadas en las que el aprendizaje y el feedback son elemento
 
 > **ACUPUNTURA**
 
-La acupuntura que realizo sigue la misma líea que las sesiones de shiatsu, tengo en cuenta los tres ejes que configuran una persona (a nivel físico, intelectual y emocional) con la diferencia que el enfoque del tratamiento es más clínico.
+La acupuntura que realizo sigue la misma línea que las sesiones de shiatsu, tengo en cuenta los tres ejes que configuran una persona (a nivel físico, intelectual y emocional) con la diferencia que el enfoque del tratamiento es más clínico.
 
 Durante el tratamiento tomaremos como referencia principal los reflejos de dolor o molestia que aparecen en el àrea de diagnostico; tanto puede ser en las areas de reflejo en el "hara" (vientre), como en areas secundarias. 
 
