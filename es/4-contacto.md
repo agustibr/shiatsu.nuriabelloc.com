@@ -11,7 +11,6 @@ published: true
 ---
 # Núria Belloc Rocasalbas
 
-Horario de visita:
 - Lunes 10-14h y de 16 a 20h
 - Martes 16 a 20h
 - Miércoles 10-14h y de 16 a 20h
