@@ -18,8 +18,8 @@ published: true
 
 Clases de inciciación al shiatsu para aprender a un nivel básico y compartir con familia y amigos. Son cursos puntuales en los que el foco principal es fomentar la creatividad en el masaje y la comprensión del lenguaje corporal. Son clases para conocer los principios básicos del shiatsu aprendiendo la teoría a través de la práctica.
 
-**INSCRIPCIONES ABIERTAS:** CICLO DE INICIACIÓN AL SHIATSU 2017 [nunArt Gràcia](http://nunartbcn.com/ca/)
 
-                        shiatsu.nbr@gmail.com o llama al 651862122 
 
-![]({{site.baseurl}}/image/CAST_WEB_ciclo_shiatsu_2017_7.jpg)
+Para solicitar información: shiatsu.nbr@gmail.com o llama al 651862122 
+
+
