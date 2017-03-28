@@ -1,13 +1,21 @@
 ---
 title: Contacto
-description: "Concierta una sesión de Shiatsu con Núria Belloc Rocasalbas. Terapeuta de Shiatsu en Barcelona."
+description: >-
+  Concierta una sesión de Shiatsu con Núria Belloc Rocasalbas. Terapeuta de
+  Shiatsu en Barcelona.
 menu: true
 permalink: es/contacto/
 sibling: contact
 order: 4
+published: true
 ---
 # Núria Belloc Rocasalbas
 
+Horario de visita:
+- Lunes 10-14h y de 16 a 20h
+- Martes 16 a 20h
+- Miércoles 10-14h y de 16 a 20h
+- Jueves 16 a 20h
 
 <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" >
   <path
