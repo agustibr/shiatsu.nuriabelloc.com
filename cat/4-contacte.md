@@ -13,10 +13,11 @@ published: true
 # Núria Belloc Rocasalbas
 
 Horari de visita:
-Dilluns 10-14h i de 16 a 20h
-Dimarts 16 a 20h
-Dimecres 10-14h i de 16 a 20h
-Dijous 16 a 20h
+- Dilluns 10-14h i de 16 a 20h
+- Dimarts 16 a 20h
+- Dimecres 10-14h i de 16 a 20h
+- Dijous 16 a 20h
+
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" >
