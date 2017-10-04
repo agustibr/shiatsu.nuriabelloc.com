@@ -9,22 +9,14 @@ order: 3
 ---
 
 
+![nuria_foto.jpg]({{site.baseurl}}/image/nuria_foto.jpg)
 
-![Foto Núria Belloc]({{site.baseurl}}/image/WEBretratbaixaresol.jpg)
+Licenciada en Bellas Artes, Terapeuta de [Shiatsu i Movimiento](http://www.shiatsu-movimiento.com/), y Acupuntora al estilo de [Kiiko Matsumoto](http://www.kiikomatsumoto.com/). 
 
-Soy licenciada en Belles Arts en la especialidad de escultura, Terapeuta de [Shiatsu y Movimento](http://www.shiatsu-movimiento.com) y [Acupuntora al estilo de Kiiko Matsumoto](http://www.kiikomatsumoto.com/).
+**Integra la creatividad con la salud y la calidad de relación entre personas.**
 
-En los tratamientos que hago, trato de integrar los conocimientos y la creatividad con la salud y la calidad de relación entre personas.
+Ha complementado su formación con el estudio del [Kiyindo Shiatsu](http://www.kiyindo-shiatsu.com/) (Pierre Clavreux), el seminario Thai massage meets Ostheopathy (David Lutt i Karine Alayna) Entrenamiento para Terapeutas (Emili Pulido i Cristina Hernando), el [Postgrado Contacte Viu](http://espailasal.com/) (Cristina Hernando) y  Bases de la MTCH para profesionales de la Salud (European School of Acupuncture).
 
-He complementado mi formación como terapeuta de Shiatsu y Movimento con el estudio del _Kiyindo Shiatsu_ (Pierre Clavreux), el seminario _Thai massage meets Ostheopathy_ (David Lutt y Karine Alayna) _Entrenamiento para Terapeutas_ (Emili Pulido i Cristina Hernando),y el Postgrado _Contacte Viu_ (Cristina Hernando)
+Tiene experiencia profesional  en los centros: [Ingravitt](http://www.ingravitt.com/) (Las Franquesas del Vallés), [Sattva i Sincronia](https://sincronia.info/) (Gracia), en el [Centro de Recuperación Integral y Osteopatia Crios](http://www.criosgracia.com/). Ha impartido diversos talleres de iniciación al Shiatsu en nunArt Gràcia y ha colaborado en enseñanza en el curso de Shiatsu del Instituto Wu Shu.
 
-He realizado los estudios de Acupuntura: _Bases de la MTCH para profesionales de la Salud_, European School of Acupuncture y el master de **[KIIKO MATSUMOTO ACUPUNCTURE](http://www.kiikomatsumoto.com/)** impartido por Andy Harrop.
-
-Experiencia profesional en los centros: _Ingravitt_ (Les Franqueses del Vallès), _Sattva_ (Gràcia), _Sincronia_ (Gràcia), al _Centre de Recuperació Integral i Osteopatia Crios]_, y en _Equilit_. He impartido talleres de iniciación de Shiatsu en _nunArt Gràcia_.
-
-Actualmente, ejerzo como Acupuntora y Terapeuta de Shiatsu y Acupuntora en mi propia consulta (Gracia).
-
-
-[Shiatsu i Moviment]: http://www.shiatsu-movimiento.com
-[KIIKO MATSUMOTO ACUPUNCTURE]: http://www.kiikomatsumoto.com
-[CO+T Remei]: https://cotbarcelona.wordpress.com
+Desdel 2014 tiene consulta propia de Shiatsu y Acupuntura en Barcelona (gràcia) 
