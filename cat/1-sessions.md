@@ -40,7 +40,7 @@ S’aplica pressió sobre els meridians i punts d’acupuntura, així com també
 
 Son sessions personalitzades en les que l’aprenentatge i el feedback són elements imprortants, la comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats.
 
-_AFAVOREIX LA RELAXACIÓ, ALLEUJA L’ESTRÉS, MILLORA LA QUALITAT DE LA SON,  ACTIVA EL SISTEMA INMUNOLÒGIC I CIRCULATORI, ELS SISTEMES DE DEPURACIÓ I ELIMINACIÓ DE TOXINES._
+_AFAVOREIX LA RELAXACIÓ, ALLEUJA L’ESTRÉS, MILLORA LA QUALITAT DEL DESCANS, ACTIVA EL SISTEMA INMUNOLÒGIC I CIRCULATORI, ELS SISTEMES DE DEPURACIÓ I ELIMINACIÓ DE TOXINES._
 
 > _Sessions de 60 minuts, cal portar roba cómode_
 
@@ -51,11 +51,10 @@ _AFAVOREIX LA RELAXACIÓ, ALLEUJA L’ESTRÉS, MILLORA LA QUALITAT DE LA SON,  A
 
 L'acupuntura que realitzo segueix la mateixa línea que les sessions de shiatsu, tenint en compte els tres eixos que configuren una persona (a nivell físic, intelectual i emocional) amb la diferència que l'enfoc del tractament és més clínic.
 
-Durant el tractament pendrem com a referència principal els reflexes de dolor o molèstia que apareixen a l'àrea de diagnòstic; per tal d'optimitzar el tractament, caldrà un feedback en el qual valorarem les millores a l'àrea diagnosticada, comprovarem quins són els punts més efectius, de manera que el diagnòstic i el tractament es realitzarà de forma circular.
+Com?
+Durant el tractament pendrem com a referència principal els reflexes de dolor o molèstia. Per tal d’optimitzar el tractament, caldrà un feedback en el qual valorarem les millores, de manera que el diagnòstic i el tractament es realitzarà de forma circular.
 
-L'acupuntura japonesa es caracteritza per la subtilesa, doncs s'utilitzen agulles molt fines, realitzant un tractament en primer lloc distal, lliberant les arees abans de tractar-les directament.
-
-**lesions, cura de cicatrius, estructural, de sistema nerviós, constitucional, sistema inmune, digestiu, del descans, detox...**
+INDICACIONS:_SISTEMA INMUNE, DIGESTIU, DEL DESCANS, DETOX, LESIONS, CURA DE CICATRIUS, ESTRUCTURAL, DEL SISTEMA NERVIÓS, CONSTITUCIONAL..._
 
 ![acu.jpg]({{site.baseurl}}/image/acu.jpg)
 
