@@ -32,8 +32,6 @@ published: true
 
 > **SHIATSU**
 
-És una teràpia manual d’origen japonés amb base de Medicina Xinesa. 
-
 > És una terapia manual d'origen japonés amb base de medicina Xina que promou la vitalitat i potencia la capacitat d'autocuració, a nivell físic i emocional
 
 {% include carousel.html imgs=page.shiatsuCarousel %}
