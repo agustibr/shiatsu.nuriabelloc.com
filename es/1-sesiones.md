@@ -32,33 +32,17 @@ published: true
 
 > **SHIATSU**
 
-> **SHIATSU**
-
-És una teràpia manual d’origen japonés amb base de Medicina Xinesa. S’aplica pressió sobre els meridians i punts d’acupuntura, així com també mitjançant estiraments i mobilitzacions. Combino l’essència del shiatsu amb el treball corporal, l’estudi del moviment del cos, coneixements de psicología, anatomía i fisiología d’occident. Amb aquesta base, genero eines per a treballar el símptoma, la causa i la dinàmica creada.
-
-> Promou la vitalitat i potencian la capacitat d'autocuració, a nivell físic i emocional
+> Es una terapia manual de origen japonés con base de medicina china que promueve la vitalidad y potencia la capacidad de autocuración, a nivel físico y emocional
 
 {% include carousel.html imgs=page.shiatsuCarousel %}
 
-Son sessions personalitzades en les que l’aprenentatge i el feedback són elements imprortants, la comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats.
+Se aplica presión sobre los meridianos y puntos de acupuntura, como también mediante estiramientos y mobilizaciones. Combino la esencia del shiatsu con el trabajo corporal, el estudio de movimiento del cuerpo, conocimientos de psicología, anatomía y fisiología de occidente. Con esta base, genero herramientas para trabajar el síntoma, la causa y la dinámica creada.
 
-_AFAVOREIX LA RELAXACIÓ, ALLEUJA L’ESTRÉS, MILLORA LA QUALITAT DE LA SON,  ACTIVA EL SISTEMA INMUNOLÒGIC I CIRCULATORI, ELS SISTEMES DE DEPURACIÓ I ELIMINACIÓ DE TOXINES._
+Son sesiones personalizadas en las que el aprendizaje y el feedback son elementos imprortantes, la comprensión sensitiva del motivo del trabajo corporal ayuda a que el sistema nervioso reorganice incluso los hábitos más arraigados.
 
-> _Sessions de 60 minuts, cal portar roba cómode_
+_FAVORECE LA RELAJACIÓN, ALIVIA EL ESTRÉS, MEJORA LA CALIDAD DEL DESCANSO,  ACTIVA EL SISTEMA INMUNOLÓGICO Y CIRCULATORIO, LOS SISTEMAS DE DEPURACIÓN Y ELIMINACIÓN DE TOXINAS._
 
-El Shiatsu es una terapia manual de origen japonés que se fundamenta en la antigua filosofía y medicina clásica china. Se basa en la aplicación de presión sobre los meridianos y puntos, así com también, mediante estiramentos y movilizaciones.
-
-> El Shiatsu estimula diversos sistemas del organismo, promoviendo la vitalidad y potenciando la capacidad de autocuración.
-
-{% include carousel.html imgs=page.shiatsuCarousel %}
-
-Combino la esencia del shiatsu con el trabajo corporal, el estudio del movimento del cuerpo, conocimientos de anatomía y fisiología de occidente. Con esta base, genero herramientas para trabajar el síntoma, la causa y la dinámica creada.
-
-Son sesiones personalizadas en las que el aprendizaje y el feedback son elementos imprescindibles. La comprensión sensitiva del motivo de trabajo corporal ayuda a que el sistema nervioso reorganice incluso los hábitos más arraigados.
-
-> _la duración de las sesiones de shiatsu es entre 50 y 60 minutos_
-
-> _traer ropa cómoda_
+> _Sesiones de 60 minutos, hace falta traer ropa cómoda_
 
 --------------------------------------------------------------------------------------
 
