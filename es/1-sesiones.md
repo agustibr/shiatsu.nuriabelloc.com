@@ -48,13 +48,12 @@ _FAVORECE LA RELAJACIÓN, ALIVIA EL ESTRÉS, MEJORA LA CALIDAD DEL DESCANSO,  AC
 
 > **ACUPUNTURA**
 
-La acupuntura que realizo sigue la misma línea que las sesiones de shiatsu, teniendo en cuenta los tres ejes que configuran una persona (a nivel físico, intelectual y emocional) con la diferencia que el enfoque del tratamiento es más clínico.
+La acupuntura que realizo sigue la misma línea que las sesiones de shiatsu, teniendo en cuenta los tres ejes que configuran una persona (a nivell físico, intelectual y emocional) con la diferencia que el enfoque del tratamiento es más clínico.
 
-Durante el tratamiento tomaremos como referencia principal los reflejos de dolor o molestia que aparecen en el àrea de diagnostico; para optimizar el tratamiento, sera necesario un feedback en el cual valoraremos las mejoras del area diagnosticada, y comprobaremos cuales son los puntos más efectivos, de manera que el diagnóstico y el tratamiento se realizará de forma circular.
+_Cómo?_
+Durante el tratamiento tomaremos como referencia principal los reflejos de dolor o molestia. Para optimizar el tratamiento, habrá un feedback en el cual valoraremos las mejoras, de manera que el diagnóstico y el tratamiento se realizará de forma circular.
 
-La acupuntura japonesa se caracteriza por la sutileza, se emplean agujas muy finas, realizando un tratamiento distal, liberando las areas afectadas antes de tratarlas directamente.
-
-**lesiones, cicatrices, estructural, sistema nervioso, constitucional, sistema inmune, digestivo, del descanso, detox...**
+INDICACIONES:_SISTEMA INMUNE, DIGESTIVO, DEL DESCANSO, DETOX, LESIONES, CURA DE CICATRICES, ESTRUCTURAL, DEL SISTEMA NERVIOSO, CONSTITUCIONAL..._
 
 ![acu.jpg]({{site.baseurl}}/image/acu.jpg)
 
