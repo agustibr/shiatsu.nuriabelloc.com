@@ -32,18 +32,18 @@ published: true
 
 > **SHIATSU**
 
-El Shiatsu és una teràpia manual d’origen japonés que es fonamenta en l'antiga filosofia i medicina clàssica xinesa. Es basa en l'aplicació de pressió sobre els meridians i punts, així com també, mitjançant estiraments i mobilitzacions.
+És una teràpia manual d’origen japonés amb base de Medicina Xinesa. S’aplica pressió sobre els meridians i punts d’acupuntura, així com també mitjançant estiraments i mobilitzacions. Combino l’essència del shiatsu amb el treball corporal, l’estudi del moviment del cos, coneixements de psicología, anatomía i fisiología d’occident. Amb aquesta base, genero eines per a treballar el símptoma, la causa i la dinàmica creada.
 
-> El Shiatsu estimula diversos sistemes de l'organisme, promovent la vitalitat i potenciant la capacitat d'autocuració.
+> Promou la vitalitat i potencian la capacitat d'autocuració, a nivell físic i emocional
 
 {% include carousel.html imgs=page.shiatsuCarousel %}
 
-Combino l'essència del shiatsu amb el treball corporal, l’estudi del moviment del cos, coneixements d’anatomia i fisiologia d’occident. Amb aquesta base, genero eines per a treballar el símptoma, la causa i la dinàmica creada.
+Son sessions personalitzades en les que l’aprenentatge i el feedback són elements imprortants, la comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats.
 
-Son sessions personalitzades en les que l’aprenentatge i el feedback són elements imprescindibles. La comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats. 
+_AFAVOREIX LA RELAXACIÓ, ALLEUJA L’ESTRÉS, MILLORA LA QUALITAT DE LA SON,  ACTIVA EL SISTEMA INMUNOLÒGIC I CIRCULATORI, ELS SISTEMES DE DEPURACIÓ I ELIMINACIÓ DE TOXINES._
 
-> _les sessions de Shiatsu tenen una durada d'entre 50 i 60 minuts_
-> _cal portar roba comode_
+> _Sessions de 60 minuts, cal portar roba cómode_
+
 
 --------------------------------------------------------------------------------------
 
