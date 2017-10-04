@@ -32,6 +32,20 @@ published: true
 
 > **SHIATSU**
 
+> **SHIATSU**
+
+És una teràpia manual d’origen japonés amb base de Medicina Xinesa. S’aplica pressió sobre els meridians i punts d’acupuntura, així com també mitjançant estiraments i mobilitzacions. Combino l’essència del shiatsu amb el treball corporal, l’estudi del moviment del cos, coneixements de psicología, anatomía i fisiología d’occident. Amb aquesta base, genero eines per a treballar el símptoma, la causa i la dinàmica creada.
+
+> Promou la vitalitat i potencian la capacitat d'autocuració, a nivell físic i emocional
+
+{% include carousel.html imgs=page.shiatsuCarousel %}
+
+Son sessions personalitzades en les que l’aprenentatge i el feedback són elements imprortants, la comprensió sensitiva del motiu del treball corporal ajuda a que el sistema nerviós reorganitzi inclús els hàbits més arrelats.
+
+_AFAVOREIX LA RELAXACIÓ, ALLEUJA L’ESTRÉS, MILLORA LA QUALITAT DE LA SON,  ACTIVA EL SISTEMA INMUNOLÒGIC I CIRCULATORI, ELS SISTEMES DE DEPURACIÓ I ELIMINACIÓ DE TOXINES._
+
+> _Sessions de 60 minuts, cal portar roba cómode_
+
 El Shiatsu es una terapia manual de origen japonés que se fundamenta en la antigua filosofía y medicina clásica china. Se basa en la aplicación de presión sobre los meridianos y puntos, así com también, mediante estiramentos y movilizaciones.
 
 > El Shiatsu estimula diversos sistemas del organismo, promoviendo la vitalidad y potenciando la capacidad de autocuración.
