@@ -51,7 +51,7 @@ _AFAVOREIX LA RELAXACIÓ, ALLEUJA L’ESTRÉS, MILLORA LA QUALITAT DEL DESCANS, 
 
 L'acupuntura que realitzo segueix la mateixa línea que les sessions de shiatsu, tenint en compte els tres eixos que configuren una persona (a nivell físic, intelectual i emocional) amb la diferència que l'enfoc del tractament és més clínic.
 
-Com?
+_Com?_
 Durant el tractament pendrem com a referència principal els reflexes de dolor o molèstia. Per tal d’optimitzar el tractament, caldrà un feedback en el qual valorarem les millores, de manera que el diagnòstic i el tractament es realitzarà de forma circular.
 
 INDICACIONS:_SISTEMA INMUNE, DIGESTIU, DEL DESCANS, DETOX, LESIONS, CURA DE CICATRIUS, ESTRUCTURAL, DEL SISTEMA NERVIÓS, CONSTITUCIONAL..._
