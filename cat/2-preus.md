@@ -15,12 +15,8 @@ order: 2
 
 
 
-> **SESSIÓ**
+> **SESSIÓ 40€**
 
-_primera sessió 
-### 35€_
-
-**preu sessió**
-### 40€
+_primera sessió 35€_
 
 ---
