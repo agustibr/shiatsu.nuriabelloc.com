@@ -14,4 +14,4 @@ order: 2
 
 > **SESIÓN 40€**
 
-
+![]({{site.baseurl}}/image/CASTportesobertes_WEB.jpg)
