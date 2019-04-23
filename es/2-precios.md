@@ -13,5 +13,4 @@ order: 2
 
 
 > **SESIÓN 40€**
-![CATportesobertes_WEB.jpg]({{site.baseurl}}/image/CATportesobertes_WEB.jpg)
 
