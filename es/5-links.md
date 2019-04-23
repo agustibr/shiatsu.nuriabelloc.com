@@ -8,7 +8,7 @@ published: true
 ---
 
 Ecopuntura, Arnau Oliveres Künzi
-[ecopuntura.cat/](https://ecopuntura.cat/)
+: [ecopuntura.cat/](https://ecopuntura.cat/)
 
 APSE
 : [shiatsu-apse.es](http://www.shiatsu-apse.es)
